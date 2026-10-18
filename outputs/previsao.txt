@@ -23,6 +23,18 @@ não é uma previsão crível. Intervalo: Wilson (z = 1.96) das publicadas rotul
 Validação cruzada (5 partes; cada questão julgada por um corte escolhido sem ela):
 5/6 = 83%.
 
+Por que publicar com uma previsão abaixo de 95%
+
+A previsão de 0.83 reflete o tamanho do gabarito, não um erro observado: nenhuma questão
+publicada errou (4/4). Com tão poucos rótulos, a estimativa fica perto
+do prior Beta(1, 1), que trata 50% de acerto como tão plausível quanto 100%. Esse prior é pessimista
+para este caso: mesmo sem nenhum filtro, um modelo sozinho acerta 80% a 93% das rotuladas, e
+o nível A é o filtro mais estrito da regra: os dois modelos concordam e pelo menos duas evidências
+independentes (lei citada, assunto de origem, busca) apontam para o mesmo ramo. A precisão real do
+nível A deve ficar acima da de um modelo sozinho. Entre publicar o nível A com uma previsão
+conservadora e não publicar nada (cobertura zero), escolhi publicar e informar a previsão honesta.
+Rotular o restante da amostra (só faltou tempo) é o que estreitaria o intervalo.
+
 Cobertura prevista: 114 publicadas de 359. É exata (decidimos quem publica); o intervalo
 mostra a cobertura dos cortes que a validação cruzada escolheu em cada parte, isto é, quanto o
 corte mudaria com outra amostra de rótulos.
