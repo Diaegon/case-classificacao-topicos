@@ -1,0 +1,37 @@
+# Correções manuais das descrições enriquecidas (data/interim/temas_descricoes.jsonl).
+# A saída da LLM nunca é editada; os campos daqui substituem os da LLM na montagem dos textos.
+# Campos aceitos: entra, descricao_curta, termos_tipicos (lista), nao_entra (lista de {tema_id, fronteira}).
+#
+# Base legal NÃO entra nos textos de classificação (decisão do usuário, 2026-10-17); por isso
+# as correções abaixo são de conteúdo, não de artigo.
+# Revisado por: (pendente). Propostas do Claude a partir da amostragem de 2026-10-17.
+
+5151:  # Feminicídio. A LLM só conhecia o regime antigo (qualificadora do homicídio); desde a Lei
+       # 14.994/2024 é crime autônomo. O banco tem questões dos dois períodos.
+  entra: >-
+    Questões sobre o feminicídio: matar mulher por razões da condição do sexo feminino, envolvendo
+    violência doméstica e familiar ou menosprezo e discriminação à condição de mulher. Cobre tanto o
+    regime anterior, em que o feminicídio era qualificadora do homicídio (discussão sobre sua natureza
+    objetiva ou subjetiva e compatibilidade com o privilégio), quanto o regime atual, em que é crime
+    autônomo com pena própria, além das causas de aumento de pena e da relação com o contexto de
+    violência doméstica.
+  descricao_curta: >-
+    Feminicídio: morte de mulher por razões da condição do sexo feminino, como antiga qualificadora do
+    homicídio ou como crime autônomo atual; causas de aumento.
+
+5108:  # Corrupção de Menores, dentro de Crimes contra a Dignidade Sexual. A LLM descreveu a
+       # corrupção de menores do ECA (induzir menor a praticar infração), que é outro crime.
+  entra: >-
+    Questões sobre a corrupção de menores no âmbito dos crimes sexuais contra vulnerável: induzir menor
+    de 14 anos a satisfazer a lascívia de outrem, e figuras próximas como satisfação de lascívia mediante
+    presença de criança ou adolescente e favorecimento da prostituição ou exploração sexual de
+    vulnerável. Exige distinguir o induzimento à satisfação da lascívia alheia da prática de ato
+    libidinoso com o próprio menor.
+  descricao_curta: >-
+    Corrupção de menores sexual: induzir menor de 14 anos a satisfazer a lascívia de outrem; não é a
+    corrupção de menores do ECA (induzir menor a praticar infração penal).
+  termos_tipicos: [corrupção de menores, menor de 14 anos, lascívia de outrem, induzir, vulnerável,
+                   satisfação de lascívia, presença de criança ou adolescente, exploração sexual]
+  nao_entra:
+    - {tema_id: "5103", fronteira: "Vai para 5103 a prática de conjunção carnal ou ato libidinoso com o próprio menor de 14 anos (estupro de vulnerável)."}
+    - {tema_id: "4709", fronteira: "Vai para 4709 a corrupção de menores do ECA, que é induzir ou facilitar a prática de infração penal por menor de 18 anos."}

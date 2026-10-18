@@ -1,0 +1,31 @@
+precisao_prevista: 0.83   # fração das publicadas que estará certa
+precisao_intervalo: 0.51-1.00
+cobertura_prevista: 0.32  # fração das questões que você publicou
+cobertura_intervalo: 0.32-0.68
+
+Como cheguei nos números
+
+Cada questão recebe um nível (A a E) por uma regra determinística: os dois modelos (gpt-5.4-mini e
+gpt-6-luna) concordam? E quantas evidências independentes apontam para o mesmo ramo (lei citada,
+assunto de origem, top-3 da busca híbrida)? Penalidades descem um nível. O gabarito manual
+(15 questões rotuladas, de uma amostra estratificada de 80 sorteada às cegas) mede a
+precisão de cada nível; um acerto é o tema do gabarito, o pai ou um filho.
+
+Publicam os níveis cuja precisão acumulada no gabarito é ≥ 95%: A
+(4/4 acertos entre as publicadas rotuladas).
+Critério: pontual. O critério mais rigoroso (limite inferior de Wilson ≥ 95%) não é
+alcançável com este gabarito: mesmo sem erro, certificar 95% com z = 1,96 exige ≥ 73 publicadas
+rotuladas, e com um erro, ≥ 110. Por isso o corte usa a precisão observada e o Wilson vira a incerteza.
+
+Precisão prevista: média da confiança das publicadas, (acertos + 1) / (n + 2) do nível de cada uma
+(prior Beta(1, 1)). É menor que a precisão observada de propósito: com poucos rótulos, 100% observado
+não é uma previsão crível. Intervalo: Wilson (z = 1.96) das publicadas rotuladas.
+Validação cruzada (5 partes; cada questão julgada por um corte escolhido sem ela):
+5/6 = 83%.
+
+Cobertura prevista: 114 publicadas de 359. É exata (decidimos quem publica); o intervalo
+mostra a cobertura dos cortes que a validação cruzada escolheu em cada parte, isto é, quanto o
+corte mudaria com outra amostra de rótulos.
+
+Limites: o intervalo de precisão é largo porque o gabarito é pequeno; cada questão a mais rotulada
+estreita o intervalo e pode liberar o nível seguinte (rodar make avaliacao e make entregas).

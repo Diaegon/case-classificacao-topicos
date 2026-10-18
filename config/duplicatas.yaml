@@ -1,0 +1,26 @@
+# id_duplicado → id_canônico. Proposto por similaridade de título (rapidfuzz.ratio,
+# sem acento/caixa/"(Parte N)"). Regra: o canônico é o nó original (id antigo, com
+# descrição ou filhos). Duplicatas ficam publicavel=False.
+# Revisado por: (pendente)
+
+duplicatas:
+  6716: 4684   # Penal > Abuso de Autoridade → Direito Penal - Legislação Especial > Abuso de Autoridade (score 100; 2º: 5167 65)
+  6717: 4688   # Penal > Crimes contra o meio ambiente → Direito Penal - Legislação Especial > Crimes contra o meio ambiente (score 100; 2º: 5112 72)
+  6718: 5087   # Penal > Dos Crimes Contra a Administração Pública (Parte 1) → Penal > Dos Crimes Contra a Administração Pública (score 100; 2º: 5079 92)
+  6720: 5157   # Penal > Dos Crimes Contra o Patrimônio (Parte 1) → Penal > Dos Crimes Contra o Patrimônio (score 100; 2º: 5112 81)
+  6719: 5087   # Penal > Dos Crimes contra a Administração Pública (Parte 2) → Penal > Dos Crimes Contra a Administração Pública (score 100; 2º: 5079 92)
+  6721: 5157   # Penal > Dos Crimes contra o Patrimônio (Parte 2) → Penal > Dos Crimes Contra o Patrimônio (score 100; 2º: 5112 81)
+  6722: 4696   # Penal > Estatuto do Idoso - Crimes → Direito Penal - Legislação Especial > Estatuto do Idoso - Crimes (score 100; 2º: 4697 71)
+  6723: 4702   # Penal > Lavagem de Dinheiro → Direito Penal - Legislação Especial > Lavagem de Dinheiro (score 100; 2º: 5205 50)
+  6724: 4704   # Penal > Lei Maria da Penha → Direito Penal - Legislação Especial > Lei Maria da Penha (score 100; 2º: 5199 75)
+  6725: 4705   # Penal > Organizações Criminosas → Direito Penal - Legislação Especial > Organizações Criminosas (score 100; 2º: 5210 64)
+  6726: 5199   # Penal > Teoria da Pena (Parte 1) → Penal > Teoria da Pena (score 100; 2º: 4704 75)
+  6727: 5199   # Penal > Teoria da Pena (Parte 2) → Penal > Teoria da Pena (score 100; 2º: 4704 75)
+  6728: 4708   # Penal > Tráfico de Drogas → Direito Penal - Legislação Especial > Tráfico de Drogas (score 100; 2º: 5101 63)
+  6732: 5480   # Processo Penal > Competência (Parte 1) → Processo Penal > Competência (score 100; 2º: 5485 71)
+  6733: 5480   # Processo Penal > Competência (Parte 2) → Processo Penal > Competência (score 100; 2º: 5485 71)
+  6734: 4703   # Processo Penal > Lei de Execução Penal → Direito Penal - Legislação Especial > Lei de Execução Penal (score 100; 2º: 5502 67)
+  6735: 5543   # Processo Penal > Provas em Espécie → Processo Penal > Provas em Espécies (score 97; 2º: 5517 86)
+  6736: 5560   # Processo Penal > Recursos (Parte 03) - Espécies → Processo Penal > Recursos em Espécies (score 92; 2º: 5571 85)
+  6737: 5572   # Processo Penal > Sentença Penal (Parte 1) → Processo Penal > Sentença Penal (score 100; 2º: 5537 73)
+  6738: 5572   # Processo Penal > Sentença Penal (Parte 2) → Processo Penal > Sentença Penal (score 100; 2º: 5537 73)

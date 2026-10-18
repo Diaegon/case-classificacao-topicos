@@ -1,0 +1,360 @@
+id,decisao,tema_central_id,extras_ids,confianca,motivo
+Q0001,publicar,5527,,0.83,
+Q0002,revisar,4377,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0003,revisar,5527,5475;5534,0.25,"modelos em ramos sobrepostos: 5527 (Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia) vs 5534 (Absolvição Sumária)"
+Q0004,publicar,5484,5483;5482,0.83,
+Q0005,revisar,5576,5201;5185;5203,0.25,modelos em ramos sobrepostos: 5576 (Fixação da Pena e do Regime Penitenciário) vs 5201 (Penas Privativas de Liberdade)
+Q0006,publicar,5157,5177,0.83,
+Q0007,revisar,5468,5470;5472,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0008,revisar,5209,5201;4703,0.25,modelos divergem: 5209 (Efeitos da Condenação Penais e Extrapenais) vs 4703 (Lei de Execução Penal)
+Q0009,revisar,5157,,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0010,publicar,4688,5223,0.83,
+Q0011,revisar,4702,5484;5482,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0012,publicar,5569,,0.83,
+Q0013,publicar,5503,5502,0.83,
+Q0014,revisar,5477,,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: fora_recorte
+Q0015,publicar,5500,5499;5508,0.83,
+Q0016,revisar,5517,5503;5586;5589,0.25,"modelos divergem: 5586 (Imunidades Prisionais e Prisões Especiais) vs 5517 (Prisões em Espécie); penalidades: lei_contra, fora_recorte"
+Q0017,revisar,5530,5509,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0018,publicar,5540,,0.83,
+Q0019,publicar,5475,,0.83,
+Q0020,revisar,5067,4709;5086;5157,0.25,modelos divergem: 5203 (Segunda Fase da Dosimetria: Agravantes e Atenuantes) vs 5067 (Concurso Material); penalidades: lei_contra
+Q0021,revisar,5503,5581,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0022,revisar,5089,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0023,publicar,5524,5519,0.83,
+Q0024,revisar,4388,4379,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0025,revisar,5087,,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0026,publicar,4704,,0.83,
+Q0027,revisar,5487,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0028,revisar,5524,5531;5535,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0029,publicar,4684,,0.83,
+Q0030,revisar,5135,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0031,publicar,4388,,0.83,
+Q0032,revisar,5497,5546,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0033,revisar,5519,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0034,revisar,5477,5594,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0035,publicar,4706,,0.83,
+Q0036,revisar,4704,5473;5531;5471,0.82,nível B não publica (8/9 no gabarito; alvo 95%); penalidades: fora_recorte
+Q0037,revisar,5132,5081;5118,0.25,"modelos divergem: 5118 (Da Falsidade Documental) vs 5132 (Sequestro, Cárcere Privado, Redução à Condição Análoga à de Escravo e Tráfico de Pessoas)"
+Q0038,revisar,5472,5500;5562;5583,0.25,modelos divergem: 5472 (Ação Penal de Iniciativa Privada) vs 5583 (Sujeitos do Processo)
+Q0039,revisar,4687,4686,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0040,revisar,5562,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0041,publicar,5184,5213,0.83,
+Q0042,revisar,5222,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0043,revisar,5199,5576,0.25,modelos divergem: 5576 (Fixação da Pena e do Regime Penitenciário) vs 5199 (Teoria da Pena)
+Q0044,revisar,5488,,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0045,publicar,5091,,0.83,
+Q0046,revisar,5509,5531;5534;5533,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0047,revisar,5164,5468;5065;5470,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0048,revisar,5193,5209;4703,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0049,revisar,5152,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0050,revisar,4708,4705,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0051,revisar,5182,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0052,revisar,4703,5201,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0053,publicar,5541,4701,0.83,
+Q0054,publicar,5174,,0.83,
+Q0055,revisar,5550,5510;5511,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0056,revisar,5066,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0057,publicar,5176,,0.83,
+Q0058,revisar,4368,4374;4390,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0059,revisar,4385,4368,0.25,modelos divergem: 4385 (Teorias Sociológicas Explicativas da Criminalidade) vs 4368 (Criminologia no Estado Democrático de Direito)
+Q0060,publicar,5087,,0.83,
+Q0061,revisar,4703,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0062,revisar,5182,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0063,publicar,4704,5490;5522,0.83,
+Q0064,revisar,4695,5198;5194;5185,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0065,revisar,5157,5150,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0066,publicar,4373,,0.83,
+Q0067,revisar,5091,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0068,revisar,5116,5154;5120;5096,0.25,modelos divergem: 5096 (Condescendência Criminosa) vs 5116 (Dos Crimes Contra a Fé Pública e de Falsidade Documental)
+Q0069,revisar,5173,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0070,revisar,5199,4703;5193,0.25,"modelos divergem: 5199 (Teoria da Pena) vs 5193 (Anistia, Graça e Indulto); penalidades: lei_contra"
+Q0071,revisar,4688,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0072,revisar,5499,5543;5590,0.25,"modelos divergem: 5590 (Teoria Geral das Provas) vs 5499 (Conceito, Finalidade e Características do Inquérito Policial); penalidades: generico"
+Q0073,revisar,5087,5147,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0074,revisar,5181,4703,0.25,modelos divergem: 5181 (Lei penal no Tempo) vs 4703 (Lei de Execução Penal); penalidades: generico
+Q0075,publicar,5191,,0.83,
+Q0076,revisar,4373,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0077,revisar,5181,4698;4692;5173,0.25,"modelos divergem: 5181 (Lei penal no Tempo) vs 5170 (Introdução ao Estudo do Direito Penal); penalidades: generico, lei_contra"
+Q0078,revisar,4697,4691,0.82,nível B não publica (8/9 no gabarito; alvo 95%); penalidades: ocr_suspeito
+Q0079,revisar,5581,4374,0.82,nível B não publica (8/9 no gabarito; alvo 95%); penalidades: generico
+Q0080,publicar,4370,,0.83,
+Q0081,publicar,4373,,0.83,
+Q0082,revisar,5100,4704,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0083,revisar,5150,5086;5137,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0084,publicar,4704,,0.83,
+Q0085,revisar,5076,5091,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0086,revisar,5092,5091,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0087,publicar,4703,5210,0.83,
+Q0088,revisar,4389,4381,0.25,modelos divergem: 4381 (Conceito e objeto da Criminologia) vs 4389 (Vitimologia)
+Q0089,revisar,5172,5227,0.25,modelos divergem: 5172 (Princípios do Direito Penal) vs 5227 (Tipicidade); penalidades: generico
+Q0090,revisar,5531,5539;4701;5524,0.25,"modelos divergem: 5531 (Oferecimento, Rejeição e Recebimento da Peça Acusatória) vs 5524 (Procedimento do Tribunal do Júri)"
+Q0091,revisar,5201,4703,0.25,modelos divergem: 5201 (Penas Privativas de Liberdade) vs 4703 (Lei de Execução Penal)
+Q0092,publicar,5511,,0.83,
+Q0093,revisar,5142,5150;5223,0.25,modelos divergem: 5142 (Omissão de Socorro) vs 5223 (Crimes Omissivos e Comissivos)
+Q0094,revisar,4388,4375;4368,0.25,modelos divergem: 4368 (Criminologia no Estado Democrático de Direito) vs 4388 (Teorias Criminológicas em Espécie)
+Q0095,revisar,5153,5150;5197,0.25,modelos divergem: 5153 (Infanticídio) vs 5197 (Perdão Judicial)
+Q0096,revisar,5480,,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0097,revisar,4708,4705;4702,0.25,modelos divergem: 4708 (Tráfico de Drogas) vs 4705 (Organizações Criminosas); penalidades: lei_contra
+Q0098,revisar,5548,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0099,revisar,5100,5077;5231,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0100,revisar,5103,5080;5108;5223,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0101,publicar,4704,,0.83,
+Q0102,revisar,5577,5475;5209;5574,0.25,modelos em ramos sobrepostos: 5577 (Efeitos Decorrentes da Sentença Penal Condenatória) vs 5209 (Efeitos da Condenação Penais e Extrapenais)
+Q0103,revisar,5478,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0104,revisar,5500,5477,0.25,modelos divergem: 5477 (Habeas Corpus) vs 5500 (Procedimento do Inquérito Policial)
+Q0105,publicar,4385,4378,0.83,
+Q0106,publicar,5157,,0.83,
+Q0107,revisar,5578,5579,0.25,"um modelo diz que nenhum tema serve; o outro, 5578 (Princípio da Correlação entre Acusação e Sentença)"
+Q0108,revisar,5561,5188,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0109,publicar,4708,,0.83,
+Q0110,publicar,5480,,0.83,
+Q0111,revisar,4373,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0112,publicar,4705,,0.83,
+Q0113,revisar,5185,5087;5498,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0114,revisar,5466,4704;5500;5181,0.25,modelos divergem: 5466 (Ação Penal) vs 5181 (Lei penal no Tempo)
+Q0115,publicar,4388,4387,0.83,
+Q0116,publicar,4708,4691;5205;5185,0.83,
+Q0117,publicar,4384,,0.83,
+Q0118,revisar,5507,5523;5584;5519,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0119,revisar,5194,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0120,revisar,5591,5582;5533,0.25,"modelos divergem: 5591 (Finalidade, Sujeitos e Ônus da Prova) vs 5533 (Defesa Preliminar)"
+Q0121,publicar,5472,5196;5469,0.83,
+Q0122,revisar,4703,,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0123,revisar,4368,4379;4378,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0124,publicar,4384,,0.83,
+Q0125,revisar,5181,5507;5566;5480,0.25,"penalidades: generico, lei_contra"
+Q0126,revisar,5182,5076;5213;5226,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0127,revisar,5581,5470;5537;4708,0.25,"penalidades: generico, lei_contra"
+Q0128,revisar,5184,5466,0.25,modelos divergem: 5184 (Medida de Segurança) vs 5466 (Ação Penal)
+Q0129,revisar,5550,5549,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0130,revisar,5160,5204;5177,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0131,revisar,5071,,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0132,revisar,5543,,0.25,"um modelo diz que nenhum tema serve; o outro, 5543 (Provas em Espécies)"
+Q0133,publicar,5524,,0.83,
+Q0134,publicar,5092,5095,0.83,
+Q0135,publicar,5169,5071,0.83,
+Q0136,publicar,4704,,0.83,
+Q0137,revisar,5500,,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: fora_recorte
+Q0138,publicar,5205,5207,0.83,
+Q0139,revisar,5211,,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0140,revisar,5157,5545,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0141,publicar,4388,,0.83,
+Q0142,fora,,,0.50,os dois modelos: nenhum tema serve; busca fraca (cos 0.4637)
+Q0143,publicar,5507,5580,0.83,
+Q0144,publicar,5562,,0.83,
+Q0145,publicar,4702,4695;5084,0.83,
+Q0146,revisar,5594,5554;5556;5558,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0147,publicar,5498,5557;5556,0.83,
+Q0148,publicar,5203,5202,0.83,
+Q0149,publicar,5500,5546;5554;5555,0.83,
+Q0150,publicar,4708,5183;5181,0.83,
+Q0151,revisar,5517,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0152,publicar,5472,5198,0.83,
+Q0153,revisar,5222,,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0154,revisar,5134,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0155,revisar,4703,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0156,publicar,4688,5205;5209;5207,0.83,
+Q0157,revisar,5520,5498,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0158,revisar,5209,5577;4707,0.82,nível B não publica (8/9 no gabarito; alvo 95%); penalidades: lei_contra
+Q0159,revisar,5160,5177;5226,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0160,publicar,5205,,0.83,
+Q0161,revisar,5518,5588,0.25,modelos divergem: 5518 (Prisão em Flagrante) vs 5588 (Relaxamento da Prisão); penalidades: lei_contra
+Q0162,revisar,4380,4369,0.50,nível D não publica (sem questões no gabarito; alvo 95%); penalidades: generico
+Q0163,revisar,5133,4684,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0164,revisar,4703,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0165,publicar,4705,5557,0.83,
+Q0166,revisar,4703,5208;5201,0.25,modelos divergem: 5208 (Livramento Condicional) vs 4703 (Lei de Execução Penal)
+Q0167,revisar,5524,5480,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0168,fora,,,0.50,os dois modelos: nenhum tema serve; busca fraca (cos 0.5349)
+Q0169,publicar,5492,,0.83,
+Q0170,revisar,5209,5193;5210;5188,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0171,revisar,5190,5187;4703;5557,0.25,modelos divergem: 5190 (Outras Prescrições) vs 4693 (Crimes Hediondos)
+Q0172,publicar,5466,5198;5079;5484,0.83,
+Q0173,publicar,4703,,0.83,
+Q0174,revisar,5166,4709;5470;5466,0.25,modelos divergem: 5128 (Dos Crimes Contra a Liberdade Pessoal) vs 5166 (Estelionato)
+Q0175,revisar,5092,,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: lei_contra
+Q0176,revisar,5081,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0177,revisar,5547,5595,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0178,revisar,4697,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0179,publicar,4369,,0.83,
+Q0180,publicar,5554,5594;5589,0.83,
+Q0181,revisar,4695,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0182,revisar,5139,5154;5144;5149,0.25,modelos divergem: 5139 (Perigo de Contágio Venéreo e de Moléstia Grave) vs 5071 (Concurso de Pessoas)
+Q0183,revisar,5188,5561;5191,0.25,modelos divergem: 5188 (Prescrição da Pretensão Punitiva) vs 5561 (Recurso em sentido estrito (RESE))
+Q0184,revisar,5518,,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: lei_contra
+Q0185,revisar,4703,5185,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0186,publicar,5202,,0.83,
+Q0187,revisar,5209,5496;5089;5201,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0188,publicar,5228,,0.83,
+Q0189,revisar,5472,5195;5196,0.25,"modelos em ramos sobrepostos: 5196 (Renúncia, Perdão do Ofendido e Retratação) vs 5472 (Ação Penal de Iniciativa Privada)"
+Q0190,publicar,4701,5540;5541;5542,0.83,
+Q0191,revisar,5560,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0192,revisar,5087,4703;5209,0.25,modelos divergem: 5209 (Efeitos da Condenação Penais e Extrapenais) vs 5087 (Dos Crimes Contra a Administração Pública)
+Q0193,revisar,5557,5502,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0194,revisar,5089,5071,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0195,publicar,4373,4368,0.83,
+Q0196,publicar,4388,4377,0.83,
+Q0197,publicar,5498,5083,0.83,
+Q0198,publicar,5073,,0.83,
+Q0199,revisar,5218,5230,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0200,publicar,4705,5522,0.83,
+Q0201,revisar,5103,5063,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0202,revisar,5109,5110;5224,0.25,modelos divergem: 5109 (Outros Crimes Contra a Dignidade Sexual) vs 5224 (Erro de Tipo)
+Q0203,revisar,5496,4702,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: lei_contra
+Q0204,publicar,5507,,0.83,
+Q0205,revisar,5567,5515;5574;5562,0.25,modelos divergem: 5567 (Carta Testemunhável) vs 5512 (Parte Geral dos Recursos)
+Q0206,revisar,5583,5514;5561,0.25,modelos divergem: 5561 (Recurso em sentido estrito (RESE)) vs 5583 (Sujeitos do Processo)
+Q0207,revisar,4703,5189;5209,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0208,revisar,5150,5228,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0209,publicar,5498,5582,0.83,
+Q0210,publicar,4697,5183;5181;4693,0.83,
+Q0211,revisar,5487,5582,0.25,modelos divergem: 5487 (Comunicação dos Atos Processuais) vs 5582 (Princípios do Processo Penal)
+Q0212,revisar,5488,5187;5543,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0213,revisar,5533,5487;5539,0.25,modelos divergem: 5539 (Procedimento Sumaríssimo) vs 5533 (Defesa Preliminar); penalidades: lei_contra
+Q0214,publicar,5494,,0.83,
+Q0215,revisar,5201,5576,0.25,modelos em ramos sobrepostos: 5201 (Penas Privativas de Liberdade) vs 5576 (Fixação da Pena e do Regime Penitenciário)
+Q0216,publicar,5541,5472;5471;5543,0.83,
+Q0217,revisar,4370,4374,0.25,modelos divergem: 4374 (Política Criminal) vs 4370 (Modelos de Reação ao Delito)
+Q0218,revisar,5518,,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: fora_recorte
+Q0219,revisar,5071,,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0220,publicar,5501,,0.83,
+Q0221,publicar,5199,5172,0.83,
+Q0222,revisar,4375,4376,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0223,revisar,5086,4703,0.25,modelos divergem: 4703 (Lei de Execução Penal) vs 5086 (Outros crimes contra a Administração Judicial)
+Q0224,revisar,5207,5206,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0225,revisar,5478,5571,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0226,revisar,5544,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0227,revisar,5103,4709;5104;5150,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0228,revisar,4703,5566,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0229,revisar,5517,5588;5586,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0230,revisar,5211,5071;5200;5184,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0231,revisar,5224,4708,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0232,revisar,5079,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0233,publicar,5178,5179,0.83,
+Q0234,revisar,4381,,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: generico
+Q0235,revisar,5561,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0236,revisar,5582,5495;5535;5498,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: generico
+Q0237,publicar,5178,,0.83,
+Q0238,revisar,5523,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0239,revisar,5199,5066,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0240,revisar,5500,5501;5531,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0241,publicar,5224,,0.83,
+Q0242,revisar,5560,5466;5513;5512,0.25,modelos divergem: 5560 (Recursos em Espécies) vs 5512 (Parte Geral dos Recursos)
+Q0243,publicar,5178,5159,0.83,
+Q0244,publicar,5091,5093,0.83,
+Q0245,publicar,5185,,0.83,
+Q0246,publicar,5527,,0.83,
+Q0247,revisar,5502,4704;4690;5181,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0248,publicar,5087,,0.83,
+Q0249,revisar,5492,5480,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0250,publicar,5201,5202,0.83,
+Q0251,publicar,5191,5185,0.83,
+Q0252,revisar,5208,5193,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0253,revisar,4373,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0254,publicar,4704,,0.83,
+Q0255,publicar,5213,,0.83,
+Q0256,revisar,5224,5212;5214,0.25,modelos divergem: 5224 (Erro de Tipo) vs 5214 (Erro de Proibição)
+Q0257,publicar,5227,5172;5229;5219,0.83,
+Q0258,revisar,5545,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0259,revisar,5183,5159;5164,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0260,publicar,4368,4376,0.83,
+Q0261,revisar,5472,5063;5136,0.25,modelos divergem: 5472 (Ação Penal de Iniciativa Privada) vs 5136 (Dos Crimes contra a Propriedade Imaterial)
+Q0262,publicar,4703,,0.83,
+Q0263,revisar,5492,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0264,revisar,5102,,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0265,revisar,5185,5067,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0266,revisar,5480,5149,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0267,revisar,4708,5518;5546,0.25,modelos divergem: 4708 (Tráfico de Drogas) vs 5546 (Perícia)
+Q0268,revisar,5120,5116;5080;4684,0.25,modelos divergem: 5120 (Dos Crimes Contra a Honra) vs 5118 (Da Falsidade Documental)
+Q0269,revisar,4375,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0270,revisar,5091,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0271,revisar,5515,5513;5524;5562,0.25,modelos divergem: 5515 (Efeito dos Recursos) vs 5562 (Apelação)
+Q0272,publicar,4703,5190;5187,0.83,
+Q0273,revisar,5089,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0274,publicar,5160,5150,0.83,
+Q0275,publicar,5539,5487;5488,0.83,
+Q0276,revisar,5543,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0277,revisar,4696,,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: fora_recorte
+Q0278,revisar,5542,5471,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0279,revisar,5188,5178;5177;5159,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0280,revisar,5121,5474;5122;5472,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: generico
+Q0281,revisar,5543,5594,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0282,revisar,4697,4690;4704,0.25,modelos divergem: 4697 (Estatuto do Desarmamento) vs 4704 (Lei Maria da Penha)
+Q0283,revisar,5496,5561,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0284,revisar,5214,5527;5574;5224,0.25,modelos divergem: 5214 (Erro de Proibição) vs 5224 (Erro de Tipo)
+Q0285,revisar,4376,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0286,revisar,5199,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0287,publicar,5230,5214;5213,0.83,
+Q0288,revisar,5068,4695;4688;5108,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0289,publicar,4704,5476;4709,0.83,
+Q0290,publicar,5539,5470;5471,0.83,
+Q0291,revisar,5500,4708,0.25,modelos divergem: 4708 (Tráfico de Drogas) vs 5500 (Procedimento do Inquérito Policial)
+Q0292,revisar,4374,4368,0.25,modelos divergem: 4368 (Criminologia no Estado Democrático de Direito) vs 4374 (Política Criminal)
+Q0293,revisar,5189,5206,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0294,publicar,5211,,0.83,
+Q0295,revisar,5489,5472,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0296,publicar,5472,5198,0.83,
+Q0297,publicar,4695,5206;4689,0.83,
+Q0298,revisar,4694,,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: lei_contra
+Q0299,revisar,4371,4377;4384;4388,0.25,modelos divergem: 4371 (Etapas Evolutivas e Escolas Criminológicas) vs 4388 (Teorias Criminológicas em Espécie)
+Q0300,revisar,5084,5169;5160,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0301,revisar,5197,5120;4691,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0302,revisar,5224,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0303,revisar,5180,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0304,revisar,4701,5541;5472;5540,0.25,modelos divergem: 4701 (Juizado Especial Criminal) vs 5540 (Competência dos Juizados Especiais Criminais)
+Q0305,revisar,5466,5064,0.25,modelos divergem: 5466 (Ação Penal) vs 5064 (Ação Penal Pública)
+Q0306,revisar,5146,4708,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0307,publicar,4707,,0.83,
+Q0308,revisar,5501,5494;5467,0.25,modelos divergem: 5501 (Conclusão e Arquivamento do Inquérito Policial) vs 5467 (Características e Condições da Ação Penal)
+Q0309,revisar,4688,,0.82,nível B não publica (8/9 no gabarito; alvo 95%); penalidades: fora_recorte
+Q0310,publicar,5505,,0.83,
+Q0311,revisar,5488,5505,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0312,publicar,4384,,0.83,
+Q0313,revisar,5209,5475;5577,0.25,modelos em ramos sobrepostos: 5577 (Efeitos Decorrentes da Sentença Penal Condenatória) vs 5209 (Efeitos da Condenação Penais e Extrapenais)
+Q0314,revisar,5477,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0315,revisar,5189,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0316,revisar,5224,5153,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0317,revisar,5198,5466,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0318,revisar,5178,5177;5150,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0319,revisar,5073,5223,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0320,revisar,5550,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0321,publicar,5071,5154;4705;4708,0.83,
+Q0322,revisar,5561,5531,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0323,revisar,5590,5547;5555;5557,0.25,modelos divergem: 5590 (Teoria Geral das Provas) vs 5543 (Provas em Espécies); penalidades: generico
+Q0324,revisar,5199,4686;4703,0.25,modelos divergem: 4703 (Lei de Execução Penal) vs 5199 (Teoria da Pena)
+Q0325,publicar,5466,5531;5196,0.83,
+Q0326,publicar,4708,,0.83,
+Q0327,revisar,5203,5548,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0328,revisar,4382,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0329,revisar,5557,5075;5080,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0330,publicar,5501,5581;5500,0.83,
+Q0331,revisar,5477,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0332,revisar,5541,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0333,revisar,4373,5219;5178;5201,0.50,nível C não publica (sem questões no gabarito; alvo 95%)
+Q0334,revisar,4381,,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: generico
+Q0335,revisar,5218,5174;5170,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0336,publicar,5159,,0.83,
+Q0337,publicar,4684,5466,0.83,
+Q0338,revisar,5543,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0339,revisar,5578,5579;5510;5565,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0340,publicar,5071,,0.83,
+Q0341,revisar,5157,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0342,revisar,5546,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0343,revisar,5191,,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0344,publicar,4688,5064;5470;5471,0.83,
+Q0345,revisar,5103,5110;5106;5203,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0346,revisar,5583,4694;5480;5524,0.50,nível C não publica (sem questões no gabarito; alvo 95%); penalidades: lei_contra
+Q0347,revisar,5199,5069;5232,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0348,revisar,5093,5180;5191;5182,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0349,revisar,5178,5160,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0350,publicar,4702,,0.83,
+Q0351,revisar,5116,,0.50,nível D não publica (sem questões no gabarito; alvo 95%)
+Q0352,revisar,5512,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0353,revisar,5185,5535,0.25,modelos divergem: 5185 (Prescrição) vs 5535 (Audiência de Instrução e Julgamento)
+Q0354,publicar,5218,5073;5211,0.83,
+Q0355,revisar,4708,5502;4684,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0356,publicar,5066,,0.83,
+Q0357,revisar,5135,,0.82,nível B não publica (8/9 no gabarito; alvo 95%)
+Q0358,revisar,5133,,0.25,"um modelo diz que nenhum tema serve; o outro, 5133 (Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos)"
+Q0359,revisar,5539,4701;4696,0.25,modelos em ramos sobrepostos: 5539 (Procedimento Sumaríssimo) vs 4701 (Juizado Especial Criminal)

@@ -1,0 +1,99 @@
+{
+  "rotuladas": 15,
+  "criterio": "pontual",
+  "precisao_alvo": 0.95,
+  "z": 1.96,
+  "niveis_publicaveis": [
+    "A"
+  ],
+  "niveis_publicaveis_pontual": [
+    "A"
+  ],
+  "publicadas_na_amostra": 4,
+  "acertos_na_amostra": 4,
+  "precisao": 1.0,
+  "wilson": [
+    0.5100999795960008,
+    1.0
+  ],
+  "precisao_ponderada": 1.0,
+  "validacao_cruzada": {
+    "publicadas": 6,
+    "acertos": 5,
+    "rotuladas": 15,
+    "precisao": 0.8333333333333334,
+    "cobertura": 0.4,
+    "cortes": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ]
+  },
+  "n_minimo_para_certificar": 73,
+  "confianca_por_nivel": {
+    "A": 0.8333333333333334,
+    "B": 0.8181818181818182,
+    "C": 0.5,
+    "D": 0.5,
+    "E": 0.25
+  },
+  "por_nivel": [
+    {
+      "nivel": "A",
+      "n": 4,
+      "acertos": 4,
+      "precisao": 1.0,
+      "wilson_inf": 0.5100999795960008,
+      "wilson_sup": 1.0,
+      "so_por_duplicata": 0
+    },
+    {
+      "nivel": "B",
+      "n": 9,
+      "acertos": 8,
+      "precisao": 0.8888888888888888,
+      "wilson_inf": 0.5649937852319399,
+      "wilson_sup": 0.9801096286728695,
+      "so_por_duplicata": 0
+    },
+    {
+      "nivel": "C",
+      "n": 0,
+      "acertos": 0,
+      "precisao": NaN,
+      "wilson_inf": 0.0,
+      "wilson_sup": 1.0,
+      "so_por_duplicata": 0
+    },
+    {
+      "nivel": "D",
+      "n": 0,
+      "acertos": 0,
+      "precisao": NaN,
+      "wilson_inf": 0.0,
+      "wilson_sup": 1.0,
+      "so_por_duplicata": 0
+    },
+    {
+      "nivel": "E",
+      "n": 2,
+      "acertos": 0,
+      "precisao": 0.0,
+      "wilson_inf": 0.0,
+      "wilson_sup": 0.6576280471103807,
+      "so_por_duplicata": 0
+    }
+  ],
+  "acerto_isolado": {
+    "a": 0.8,
+    "b": 0.9333333333333333,
+    "baseline": 0.7333333333333333
+  },
+  "avisos": [
+    "Q0222: obs com vírgula sem aspas (linha com campos a mais); juntei na obs",
+    "Q0074: obs com vírgula sem aspas (linha com campos a mais); juntei na obs",
+    "Q0185: obs com vírgula sem aspas (linha com campos a mais); juntei na obs"
+  ]
+}

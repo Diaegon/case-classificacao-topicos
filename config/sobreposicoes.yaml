@@ -1,0 +1,83 @@
+# Pares (ou grupos) de temas LEGÍTIMOS que cobrem o mesmo assunto em lugares diferentes da árvore.
+# Diferente de duplicata: os dois nós continuam publicáveis (decisão do usuário, 2026-10-17).
+# Efeito: o juiz vê o aviso na árvore, e a regra de decisão exige evidência extra
+# (ex.: disciplina) antes de publicar num nó com sobreposição, porque escolher o
+# lado errado é erro (os nós são irmãos ou primos, não pai/filho).
+#
+# Origem: "manual" = identificado na leitura da árvore; "similaridade" = proposto pelo
+# rapidfuzz (títulos parecidos, ambos com conteúdo próprio) e confirmado na leitura.
+# Revisado por: (pendente)
+
+grupos:
+  - ids: [5063, 5466]
+    motivo: "Ação Penal existe em Penal e em Processo Penal"
+    origem: similaridade
+  - ids: [5065, 5472]
+    motivo: "Ação penal privada (Penal) × Ação penal de iniciativa privada (Processo Penal)"
+    origem: manual
+  - ids: [5064, 5470, 5471]
+    motivo: "Ação penal pública (Penal) × pública incondicionada/condicionada (Processo Penal)"
+    origem: manual
+  - ids: [4700, 5555]
+    motivo: "Interceptação telefônica: Lei 9.296/96 (Leg. Especial) × meio de prova (Processo Penal)"
+    origem: similaridade
+  - ids: [4701, 5539]
+    motivo: "Juizado Especial Criminal (Leg. Especial) × Procedimento Sumaríssimo (Processo Penal), ambos Lei 9.099/95"
+    origem: manual
+  - ids: [5198, 5195, 5196, 5472]
+    motivo: "Decadência, perempção, renúncia e perdão (Punibilidade, Penal) × ação penal privada (Processo Penal)"
+    origem: manual
+  - ids: [5209, 5577]
+    motivo: "Efeitos da condenação (Penal) × efeitos da sentença condenatória (Processo Penal)"
+    origem: manual
+  - ids: [5201, 5576]
+    motivo: "Regime de cumprimento da pena (Penal) × fixação da pena e do regime na sentença (Processo Penal)"
+    origem: manual
+  - ids: [5517, 5585]
+    motivo: "Prisões em Espécie × Conceitos e Espécies de Prisão (Teoria Geral das Prisões)"
+    origem: manual
+  - ids: [5537, 5572]
+    motivo: "Sentença no procedimento ordinário × Sentença Penal"
+    origem: similaridade
+  - ids: [5534, 5527]
+    motivo: "Absolvição sumária no rito ordinário (art. 397 CPP) × no Júri (art. 415 CPP)"
+    origem: similaridade
+  - ids: [5557, 5558, 5559, 4705]
+    motivo: "Colaboração premiada, ação controlada e infiltração são meios de prova da Lei 12.850/13 (Organizações Criminosas)"
+    origem: manual
+  - ids: [5131, 4704]
+    motivo: "Violência psicológica contra a mulher (art. 147-B CP) × Lei Maria da Penha"
+    origem: manual
+  - ids: [5151, 4704]
+    motivo: "Feminicídio × Lei Maria da Penha (violência doméstica contra a mulher)"
+    origem: manual
+  - ids: [4384, 5200]
+    motivo: "Teorias legitimadoras da pena (Criminologia) × finalidade da sanção penal (Penal)"
+    origem: manual
+  - ids: [4376, 4375]
+    motivo: "Direito penal do inimigo é também uma corrente de política criminal"
+    origem: manual
+  - ids: [5147, 4695]
+    motivo: "Crimes contra as finanças públicas (CP) × crimes tributários (Lei 8.137/90)"
+    origem: manual
+  - ids: [5148, 5155]
+    motivo: "Crimes contra as instituições democráticas fazem parte dos crimes contra o Estado Democrático de Direito (Título XII do CP)"
+    origem: manual
+  - ids: [5108, 4709]
+    motivo: "Corrupção de menores (CP) × violência contra criança e adolescente (ECA)"
+    origem: manual
+  - ids: [5566, 4703]
+    motivo: "Agravo em execução é o recurso da LEP (art. 197)"
+    origem: manual
+  - ids: [5540, 5480]
+    motivo: "Competência dos Juizados Especiais × Competência"
+    origem: similaridade
+  - ids: [5180, 5505]
+    motivo: "Lei penal × lei processual no tempo e no espaço (CP art. 2º × CPP art. 2º; normas mistas ficam no meio)"
+    origem: similaridade
+  - ids: [5070, 5206]
+    motivo: "Pena de multa no concurso de crimes (art. 72 CP) × Pena de multa"
+    origem: similaridade
+  - ids: [5493, 5480]
+    motivo: "Exceção de incompetência (processo incidente) × regras de Competência"
+    origem: similaridade

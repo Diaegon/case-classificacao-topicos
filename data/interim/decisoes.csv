@@ -1,0 +1,360 @@
+id,voto_a,voto_b,segunda_a,segunda_b,decisao_previa,nivel,nivel_sem_penalidade,concordancia,tema_central_id,extras_ids,ev_lei,ev_assunto,ev_busca,lei_contra,penalidades,motivo
+Q0001,5527,5527,,5524,candidata,A,A,exata,5527,,False,True,True,False,,
+Q0002,4377,4378,4368,4377,candidata,B,B,pai_filho,4377,,False,False,True,False,,
+Q0003,5527,5534,5562,5562,revisar,E,E,sobreposicao,5527,5475;5534,False,False,False,False,,"modelos em ramos sobrepostos: 5527 (Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia) vs 5534 (Absolvição Sumária)"
+Q0004,5484,5484,5483,5483,candidata,A,A,exata,5484,5483;5482,False,True,True,False,,
+Q0005,5576,5201,5209,5576,revisar,E,E,sobreposicao,5576,5201;5185;5203,False,False,True,False,,modelos em ramos sobrepostos: 5576 (Fixação da Pena e do Regime Penitenciário) vs 5201 (Penas Privativas de Liberdade)
+Q0006,5159,5157,5160,5159,candidata,A,A,pai_filho,5157,5177,False,True,True,False,,
+Q0007,5468,5468,5471,5471,candidata,B,B,exata,5468,5470;5472,False,False,True,False,,
+Q0008,5209,4703,5577,5201,revisar,E,E,diverge,5209,5201;4703,False,True,True,False,,modelos divergem: 5209 (Efeitos da Condenação Penais e Extrapenais) vs 4703 (Lei de Execução Penal)
+Q0009,5159,5158,5158,5159,candidata,D,D,irmaos,5157,,False,False,True,False,,
+Q0010,4688,4688,5218,5174,candidata,A,A,exata,4688,5223,True,False,True,False,,
+Q0011,4702,4702,5482,,candidata,B,B,exata,4702,5484;5482,False,False,True,False,,
+Q0012,5569,5569,5561,5562,candidata,A,A,exata,5569,,True,False,True,False,,
+Q0013,5503,5503,5477,5498,candidata,A,A,exata,5503,5502,False,True,True,False,,
+Q0014,5477,5477,5476,5476,candidata,C,B,exata,5477,,False,False,True,False,fora_recorte,penalidades: fora_recorte
+Q0015,5500,5500,5498,5498,candidata,A,A,exata,5500,5499;5508,False,True,True,False,,
+Q0016,5586,5517,5519,5584,revisar,E,E,diverge,5517,5503;5586;5589,False,False,True,True,lei_contra;fora_recorte,"modelos divergem: 5586 (Imunidades Prisionais e Prisões Especiais) vs 5517 (Prisões em Espécie); penalidades: lei_contra, fora_recorte"
+Q0017,5531,5533,5533,5531,candidata,D,D,irmaos,5530,5509,False,False,True,False,,
+Q0018,5540,5540,5480,4701,candidata,A,A,exata,5540,,True,False,True,False,,
+Q0019,5475,5475,5466,,candidata,A,A,exata,5475,,False,True,True,False,,
+Q0020,5203,5067,5066,5203,revisar,E,E,diverge,5067,4709;5086;5157,False,False,True,True,lei_contra,modelos divergem: 5203 (Segunda Fase da Dosimetria: Agravantes e Atenuantes) vs 5067 (Concurso Material); penalidades: lei_contra
+Q0021,5503,5503,,,candidata,B,B,exata,5503,5581,False,False,True,False,,
+Q0022,5089,5089,,5087,candidata,B,B,exata,5089,,False,False,True,False,,
+Q0023,5524,5524,5526,5528,candidata,A,A,exata,5524,5519,False,True,True,False,,
+Q0024,4388,4388,4387,4379,candidata,B,B,exata,4388,4379,False,False,True,False,,
+Q0025,5093,5101,5101,5093,candidata,D,D,irmaos,5087,,False,False,True,False,,
+Q0026,4704,4704,,,candidata,A,A,exata,4704,,True,False,True,False,,
+Q0027,5488,5487,5489,5488,candidata,B,B,pai_filho,5487,,False,False,True,False,,
+Q0028,5526,5524,5533,5526,candidata,C,C,pai_filho,5524,5531;5535,False,False,False,False,,
+Q0029,4684,4684,5587,5587,candidata,A,A,exata,4684,,True,False,True,False,,
+Q0030,5135,5135,5134,5134,candidata,B,B,exata,5135,,False,False,True,False,,
+Q0031,4388,4388,4387,4387,candidata,A,A,exata,4388,,False,True,True,False,,
+Q0032,5497,5497,5500,5500,candidata,B,B,exata,5497,5546,False,False,True,False,,
+Q0033,5519,5519,,5517,candidata,B,B,exata,5519,,False,False,True,False,,
+Q0034,5477,5477,5476,5594,candidata,B,B,exata,5477,5594,False,False,True,False,,
+Q0035,4706,4706,,,candidata,A,A,exata,4706,,True,False,True,False,,
+Q0036,4704,4704,5471,5471,candidata,B,A,exata,4704,5473;5531;5471,True,False,True,False,fora_recorte,penalidades: fora_recorte
+Q0037,5118,5132,5081,5118,revisar,E,E,diverge,5132,5081;5118,False,False,True,False,,"modelos divergem: 5118 (Da Falsidade Documental) vs 5132 (Sequestro, Cárcere Privado, Redução à Condição Análoga à de Escravo e Tráfico de Pessoas)"
+Q0038,5472,5583,5498,5466,revisar,E,E,diverge,5472,5500;5562;5583,False,True,False,False,,modelos divergem: 5472 (Ação Penal de Iniciativa Privada) vs 5583 (Sujeitos do Processo)
+Q0039,4687,4687,4694,4694,candidata,B,B,exata,4687,4686,False,False,True,False,,
+Q0040,5562,5562,5529,5560,candidata,B,B,exata,5562,,False,False,True,False,,
+Q0041,5184,5184,4703,5213,candidata,A,A,exata,5184,5213,False,True,True,False,,
+Q0042,5222,5222,,,candidata,B,B,exata,5222,,False,False,True,False,,
+Q0043,5576,5199,5203,5576,revisar,E,E,diverge,5199,5576,False,True,True,False,,modelos divergem: 5576 (Fixação da Pena e do Regime Penitenciário) vs 5199 (Teoria da Pena)
+Q0044,5488,5488,5509,5487,candidata,C,C,exata,5488,,False,False,False,False,,
+Q0045,5091,5091,,5089,candidata,A,A,exata,5091,,False,True,True,False,,
+Q0046,5510,5509,5509,5510,candidata,B,B,pai_filho,5509,5531;5534;5533,False,False,True,False,,
+Q0047,5164,5164,5064,5065,candidata,B,B,exata,5164,5468;5065;5470,False,False,True,False,,
+Q0048,5193,5193,5191,4703,candidata,B,B,exata,5193,5209;4703,False,False,True,False,,
+Q0049,5152,5152,,,candidata,B,B,exata,5152,,False,False,True,False,,
+Q0050,4708,4708,5557,5557,candidata,B,B,exata,4708,4705,True,False,False,False,,
+Q0051,5182,5182,4690,5180,candidata,B,B,exata,5182,,False,False,True,False,,
+Q0052,4703,4703,,,candidata,B,B,exata,4703,5201,False,False,True,False,,
+Q0053,5541,5541,5542,5542,candidata,A,A,exata,5541,4701,True,True,True,False,,
+Q0054,5174,5174,,,candidata,A,A,exata,5174,,False,True,True,False,,
+Q0055,5550,5550,5535,5510,candidata,B,B,exata,5550,5510;5511,False,False,True,False,,
+Q0056,5066,5066,5070,5070,candidata,B,B,exata,5066,,False,False,True,False,,
+Q0057,5176,5176,5175,5175,candidata,A,A,exata,5176,,False,True,True,False,,
+Q0058,4368,4368,4377,4377,candidata,B,B,exata,4368,4374;4390,False,False,True,False,,
+Q0059,4385,4368,4387,4370,revisar,E,E,diverge,4385,4368,False,False,True,False,,modelos divergem: 4385 (Teorias Sociológicas Explicativas da Criminalidade) vs 4368 (Criminologia no Estado Democrático de Direito)
+Q0060,5087,5088,5097,5087,candidata,A,A,pai_filho,5087,,False,True,True,False,,
+Q0061,4703,4703,,,candidata,B,B,exata,4703,,False,False,True,False,,
+Q0062,5182,5182,4706,5180,candidata,B,B,exata,5182,,False,False,True,False,,
+Q0063,4704,4704,5522,5522,candidata,A,A,exata,4704,5490;5522,True,False,True,False,,
+Q0064,4695,4695,5191,5191,candidata,B,B,exata,4695,5198;5194;5185,False,False,True,False,,
+Q0065,5157,5161,5161,5157,candidata,B,B,pai_filho,5157,5150,False,False,True,False,,
+Q0066,4373,4373,4371,4371,candidata,A,A,exata,4373,,False,True,True,False,,
+Q0067,5091,5091,5092,5092,candidata,B,B,exata,5091,,False,False,True,False,,
+Q0068,5096,5116,5119,5096,revisar,E,E,diverge,5116,5154;5120;5096,False,True,True,False,,modelos divergem: 5096 (Condescendência Criminosa) vs 5116 (Dos Crimes Contra a Fé Pública e de Falsidade Documental)
+Q0069,5173,5173,5171,5171,candidata,B,B,exata,5173,,False,False,True,False,,
+Q0070,5199,5193,5189,4703,revisar,E,E,diverge,5199,4703;5193,False,False,False,True,lei_contra,"modelos divergem: 5199 (Teoria da Pena) vs 5193 (Anistia, Graça e Indulto); penalidades: lei_contra"
+Q0071,4688,4688,5204,5204,candidata,B,B,exata,4688,,True,False,False,False,,
+Q0072,5590,5499,5499,5592,revisar,E,E,diverge,5499,5543;5590,False,True,True,False,generico,"modelos divergem: 5590 (Teoria Geral das Provas) vs 5499 (Conceito, Finalidade e Características do Inquérito Policial); penalidades: generico"
+Q0073,5093,5087,5101,5088,candidata,B,B,pai_filho,5087,5147,False,False,True,False,,
+Q0074,5181,4703,5189,5181,revisar,E,E,diverge,5181,4703,False,False,False,False,generico,modelos divergem: 5181 (Lei penal no Tempo) vs 4703 (Lei de Execução Penal); penalidades: generico
+Q0075,5191,5191,5076,,candidata,A,A,exata,5191,,False,True,True,False,,
+Q0076,4373,4373,,4371,candidata,B,B,exata,4373,,False,False,True,False,,
+Q0077,5181,5170,5183,5171,revisar,E,E,diverge,5181,4698;4692;5173,False,False,False,True,generico;lei_contra,"modelos divergem: 5181 (Lei penal no Tempo) vs 5170 (Introdução ao Estudo do Direito Penal); penalidades: generico, lei_contra"
+Q0078,4697,4697,4691,4691,candidata,B,A,exata,4697,4691,True,False,True,False,ocr_suspeito,penalidades: ocr_suspeito
+Q0079,5581,5581,5582,4374,candidata,B,A,exata,5581,4374,False,True,True,False,generico,penalidades: generico
+Q0080,4370,4370,4368,4369,candidata,A,A,exata,4370,,False,True,True,False,,
+Q0081,4373,4373,,4371,candidata,A,A,exata,4373,,False,True,True,False,,
+Q0082,5100,5100,,,candidata,C,C,exata,5100,4704,False,False,False,False,,
+Q0083,5150,5150,5149,5224,candidata,B,B,exata,5150,5086;5137,False,False,True,False,,
+Q0084,4704,4704,,,candidata,A,A,exata,4704,,True,False,True,False,,
+Q0085,5076,5076,5087,5091,candidata,B,B,exata,5076,5091,False,False,True,False,,
+Q0086,5092,5092,5093,5091,candidata,B,B,exata,5092,5091,False,False,True,False,,
+Q0087,4703,4703,5521,5201,candidata,A,A,exata,4703,5210,True,False,True,False,,
+Q0088,4381,4389,4389,4381,revisar,E,E,diverge,4389,4381,False,True,True,False,,modelos divergem: 4381 (Conceito e objeto da Criminologia) vs 4389 (Vitimologia)
+Q0089,5172,5227,5227,5172,revisar,E,E,diverge,5172,5227,False,False,True,False,generico,modelos divergem: 5172 (Princípios do Direito Penal) vs 5227 (Tipicidade); penalidades: generico
+Q0090,5531,5524,5533,5530,revisar,E,E,diverge,5531,5539;4701;5524,False,False,True,False,,"modelos divergem: 5531 (Oferecimento, Rejeição e Recebimento da Peça Acusatória) vs 5524 (Procedimento do Tribunal do Júri)"
+Q0091,5201,4703,4703,5201,revisar,E,E,diverge,5201,4703,False,True,True,False,,modelos divergem: 5201 (Penas Privativas de Liberdade) vs 4703 (Lei de Execução Penal)
+Q0092,5511,5511,5493,5509,candidata,A,A,exata,5511,,False,True,True,False,,
+Q0093,5142,5223,5223,5142,revisar,E,E,diverge,5142,5150;5223,False,False,True,False,,modelos divergem: 5142 (Omissão de Socorro) vs 5223 (Crimes Omissivos e Comissivos)
+Q0094,4368,4388,4377,4377,revisar,E,E,diverge,4388,4375;4368,False,True,True,False,,modelos divergem: 4368 (Criminologia no Estado Democrático de Direito) vs 4388 (Teorias Criminológicas em Espécie)
+Q0095,5153,5197,5077,5077,revisar,E,E,diverge,5153,5150;5197,False,False,False,False,,modelos divergem: 5153 (Infanticídio) vs 5197 (Perdão Judicial)
+Q0096,5483,5486,5486,5483,candidata,D,D,irmaos,5480,,False,True,True,False,,
+Q0097,4708,4705,4702,4708,revisar,E,E,diverge,4708,4705;4702,False,False,True,True,lei_contra,modelos divergem: 4708 (Tráfico de Drogas) vs 4705 (Organizações Criminosas); penalidades: lei_contra
+Q0098,5548,5548,,,candidata,B,B,exata,5548,,False,False,True,False,,
+Q0099,5100,5100,5232,5077,candidata,B,B,exata,5100,5077;5231,False,False,True,False,,
+Q0100,5103,5103,5071,5071,candidata,B,B,exata,5103,5080;5108;5223,False,False,True,False,,
+Q0101,4704,4704,5482,,candidata,A,A,exata,4704,,True,False,True,False,,
+Q0102,5577,5209,5574,5577,revisar,E,E,sobreposicao,5577,5475;5209;5574,False,False,True,False,,modelos em ramos sobrepostos: 5577 (Efeitos Decorrentes da Sentença Penal Condenatória) vs 5209 (Efeitos da Condenação Penais e Extrapenais)
+Q0103,5478,5478,,5476,candidata,B,B,exata,5478,,False,False,True,False,,
+Q0104,5477,5500,5500,5477,revisar,E,E,diverge,5500,5477,False,True,True,False,,modelos divergem: 5477 (Habeas Corpus) vs 5500 (Procedimento do Inquérito Policial)
+Q0105,4385,4388,4377,4378,candidata,A,A,pai_filho,4385,4378,False,True,True,False,,
+Q0106,5166,5157,,,candidata,A,A,pai_filho,5157,,False,True,True,False,,
+Q0107,5578,,5572,,revisar,E,E,um_nenhum,5578,5579,False,False,True,False,,"um modelo diz que nenhum tema serve; o outro, 5578 (Princípio da Correlação entre Acusação e Sentença)"
+Q0108,5561,5561,5515,5515,candidata,B,B,exata,5561,5188,False,False,True,False,,
+Q0109,4708,4708,,,candidata,A,A,exata,4708,,True,False,True,False,,
+Q0110,5480,5480,5484,5481,candidata,A,A,exata,5480,,False,True,True,False,,
+Q0111,4373,4373,4371,4371,candidata,B,B,exata,4373,,False,False,True,False,,
+Q0112,4705,4705,,,candidata,A,A,exata,4705,,True,False,True,False,,
+Q0113,5185,5185,5188,5186,candidata,B,B,exata,5185,5087;5498,False,False,True,False,,
+Q0114,5466,5181,5180,5505,revisar,E,E,diverge,5466,4704;5500;5181,False,False,False,False,,modelos divergem: 5466 (Ação Penal) vs 5181 (Lei penal no Tempo)
+Q0115,4388,4388,4371,4387,candidata,A,A,exata,4388,4387,False,True,True,False,,
+Q0116,4708,4708,,5205,candidata,A,A,exata,4708,4691;5205;5185,True,False,True,False,,
+Q0117,4384,4384,5200,5200,candidata,A,A,exata,4384,,False,True,True,False,,
+Q0118,5507,5507,5519,5505,candidata,C,C,exata,5507,5523;5584;5519,False,False,False,False,,
+Q0119,5194,5194,5181,5181,candidata,B,B,exata,5194,,False,False,True,False,,
+Q0120,5591,5533,5547,5547,revisar,E,E,diverge,5591,5582;5533,False,False,False,False,,"modelos divergem: 5591 (Finalidade, Sujeitos e Ônus da Prova) vs 5533 (Defesa Preliminar)"
+Q0121,5472,5472,5065,5196,candidata,A,A,exata,5472,5196;5469,False,True,True,False,,
+Q0122,4703,4703,,,candidata,C,C,exata,4703,,False,False,False,False,,
+Q0123,4368,4368,4377,4378,candidata,B,B,exata,4368,4379;4378,False,True,False,False,,
+Q0124,4384,4384,,5200,candidata,A,A,exata,4384,,False,True,True,False,,
+Q0125,5181,5181,4703,4703,revisar,E,C,exata,5181,5507;5566;5480,False,False,False,True,generico;lei_contra,"penalidades: generico, lei_contra"
+Q0126,5182,5182,5213,5076,candidata,B,B,exata,5182,5076;5213;5226,False,False,True,False,,
+Q0127,5581,5581,5575,5469,revisar,E,C,exata,5581,5470;5537;4708,False,False,False,True,generico;lei_contra,"penalidades: generico, lei_contra"
+Q0128,5184,5466,5213,5213,revisar,E,E,diverge,5184,5466,False,False,True,False,,modelos divergem: 5184 (Medida de Segurança) vs 5466 (Ação Penal)
+Q0129,5550,5550,5535,5535,candidata,B,B,exata,5550,5549,False,False,True,False,,
+Q0130,5160,5160,5205,5205,candidata,C,C,exata,5160,5204;5177,False,False,False,False,,
+Q0131,5072,5073,5071,5072,candidata,D,D,irmaos,5071,,False,True,True,False,,
+Q0132,5543,,5498,,revisar,E,E,um_nenhum,5543,,False,False,True,False,,"um modelo diz que nenhum tema serve; o outro, 5543 (Provas em Espécies)"
+Q0133,5526,5524,5480,5486,candidata,A,A,pai_filho,5524,,False,True,True,False,,
+Q0134,5092,5092,5091,5091,candidata,A,A,exata,5092,5095,False,True,True,False,,
+Q0135,5169,5169,,,candidata,A,A,exata,5169,5071,False,True,True,False,,
+Q0136,4704,4704,,5131,candidata,A,A,exata,4704,,True,False,True,False,,
+Q0137,5500,5500,5498,5498,candidata,C,B,exata,5500,,False,False,True,False,fora_recorte,penalidades: fora_recorte
+Q0138,5205,5205,5207,5207,candidata,A,A,exata,5205,5207,False,True,True,False,,
+Q0139,5217,5212,5212,5211,candidata,D,D,irmaos,5211,,False,True,True,False,,
+Q0140,5157,5157,5159,5159,candidata,B,B,exata,5157,5545,False,False,True,False,,
+Q0141,4388,4388,4387,4387,candidata,A,A,exata,4388,,False,True,True,False,,
+Q0142,,,,,fora,,,nenhum_serve,,,,,,,,os dois modelos: nenhum tema serve; busca fraca (cos 0.4637)
+Q0143,5507,5507,5505,5505,candidata,A,A,exata,5507,5580,False,True,True,False,,
+Q0144,5562,5562,5529,5529,candidata,A,A,exata,5562,,False,True,True,False,,
+Q0145,4702,4702,5084,4695,candidata,A,A,exata,4702,4695;5084,True,False,True,False,,
+Q0146,5594,5594,5555,5554,candidata,C,C,exata,5594,5554;5556;5558,False,False,False,False,,
+Q0147,5498,5498,5556,5543,candidata,A,A,exata,5498,5557;5556,False,True,True,False,,
+Q0148,5203,5203,5576,5202,candidata,A,A,exata,5203,5202,False,True,True,False,,
+Q0149,5500,5500,5498,5554,candidata,A,A,exata,5500,5546;5554;5555,False,True,True,False,,
+Q0150,4708,4708,5181,5181,candidata,A,A,exata,4708,5183;5181,True,False,True,False,,
+Q0151,5517,5517,5521,5522,candidata,B,B,exata,5517,,False,False,True,False,,
+Q0152,5472,5472,5468,5065,candidata,A,A,exata,5472,5198,False,True,True,False,,
+Q0153,5222,5222,,,candidata,C,C,exata,5222,,False,False,False,False,,
+Q0154,5134,5135,,,candidata,B,B,pai_filho,5134,,False,False,True,False,,
+Q0155,4703,4703,5201,,candidata,B,B,exata,4703,,False,False,True,False,,
+Q0156,4688,4688,5207,5205,candidata,A,A,exata,4688,5205;5209;5207,True,False,True,False,,
+Q0157,5520,5520,,4693,candidata,B,B,exata,5520,5498,False,False,True,False,,
+Q0158,5209,5209,4707,4707,candidata,B,A,exata,5209,5577;4707,False,True,True,True,lei_contra,penalidades: lei_contra
+Q0159,5160,5160,5150,5150,candidata,B,B,exata,5160,5177;5226,False,False,True,False,,
+Q0160,5205,5205,5203,5201,candidata,A,A,exata,5205,,False,True,True,False,,
+Q0161,5518,5588,5588,5554,revisar,E,E,diverge,5518,5588,False,False,True,True,lei_contra,modelos divergem: 5518 (Prisão em Flagrante) vs 5588 (Relaxamento da Prisão); penalidades: lei_contra
+Q0162,4380,4380,4374,,candidata,D,C,exata,4380,4369,False,False,False,False,generico,penalidades: generico
+Q0163,5133,5133,4684,4684,candidata,C,C,exata,5133,4684,False,False,False,False,,
+Q0164,4703,4703,,,candidata,B,B,exata,4703,,True,False,False,False,,
+Q0165,4705,4705,,5557,candidata,A,A,exata,4705,5557,True,False,True,False,,
+Q0166,5208,4703,4703,5193,revisar,E,E,diverge,4703,5208;5201,False,False,True,False,,modelos divergem: 5208 (Livramento Condicional) vs 4703 (Lei de Execução Penal)
+Q0167,5524,5524,5480,5486,candidata,C,C,exata,5524,5480,False,False,False,False,,
+Q0168,,,,,fora,,,nenhum_serve,,,,,,,,os dois modelos: nenhum tema serve; busca fraca (cos 0.5349)
+Q0169,5492,5492,5480,5490,candidata,A,A,exata,5492,,False,True,True,False,,
+Q0170,5209,5209,5185,5188,candidata,C,C,exata,5209,5193;5210;5188,False,False,False,False,,
+Q0171,5190,4693,5502,5201,revisar,E,E,diverge,5190,5187;4703;5557,False,False,False,False,,modelos divergem: 5190 (Outras Prescrições) vs 4693 (Crimes Hediondos)
+Q0172,5473,5466,5484,5473,candidata,A,A,pai_filho,5466,5198;5079;5484,False,True,True,False,,
+Q0173,4703,4703,5201,5201,candidata,A,A,exata,4703,,True,False,True,False,,
+Q0174,5128,5166,5166,4709,revisar,E,E,diverge,5166,4709;5470;5466,False,False,True,False,,modelos divergem: 5128 (Dos Crimes Contra a Liberdade Pessoal) vs 5166 (Estelionato)
+Q0175,5092,5092,5091,5091,candidata,C,B,exata,5092,,False,False,True,True,lei_contra,penalidades: lei_contra
+Q0176,5081,5081,5550,5079,candidata,B,B,exata,5081,,False,False,True,False,,
+Q0177,5547,5547,,5595,candidata,B,B,exata,5547,5595,False,False,True,False,,
+Q0178,4697,4697,,,candidata,B,B,exata,4697,,True,False,False,False,,
+Q0179,4369,4369,,,candidata,A,A,exata,4369,,False,True,True,False,,
+Q0180,5554,5554,5503,5594,candidata,A,A,exata,5554,5594;5589,False,True,True,False,,
+Q0181,4695,4695,4687,,candidata,B,B,exata,4695,,False,False,True,False,,
+Q0182,5139,5071,5122,5074,revisar,E,E,diverge,5139,5154;5144;5149,False,False,True,False,,modelos divergem: 5139 (Perigo de Contágio Venéreo e de Moléstia Grave) vs 5071 (Concurso de Pessoas)
+Q0183,5188,5561,5187,5187,revisar,E,E,diverge,5188,5561;5191,False,False,True,False,,modelos divergem: 5188 (Prescrição da Pretensão Punitiva) vs 5561 (Recurso em sentido estrito (RESE))
+Q0184,5518,5518,4708,5500,candidata,C,B,exata,5518,,False,False,True,True,lei_contra,penalidades: lei_contra
+Q0185,4703,4703,5566,5566,candidata,B,B,exata,4703,5185,False,False,True,False,,
+Q0186,5202,5202,,5576,candidata,A,A,exata,5202,,False,True,True,False,,
+Q0187,5209,5209,5577,5577,candidata,B,B,exata,5209,5496;5089;5201,False,False,True,False,,
+Q0188,5233,5228,5228,5231,candidata,A,A,pai_filho,5228,,False,True,True,False,,
+Q0189,5196,5472,5472,5196,revisar,E,E,sobreposicao,5472,5195;5196,False,True,True,False,,"modelos em ramos sobrepostos: 5196 (Renúncia, Perdão do Ofendido e Retratação) vs 5472 (Ação Penal de Iniciativa Privada)"
+Q0190,4701,4701,5539,5542,candidata,A,A,exata,4701,5540;5541;5542,True,False,True,False,,
+Q0191,5560,5560,5567,5512,candidata,B,B,exata,5560,,False,False,True,False,,
+Q0192,5209,5087,5081,5081,revisar,E,E,diverge,5087,4703;5209,False,True,True,False,,modelos divergem: 5209 (Efeitos da Condenação Penais e Extrapenais) vs 5087 (Dos Crimes Contra a Administração Pública)
+Q0193,5557,5557,4705,4705,candidata,B,B,exata,5557,5502,False,False,True,False,,
+Q0194,5089,5089,5071,5071,candidata,B,B,exata,5089,5071,False,False,True,False,,
+Q0195,4373,4373,4371,4387,candidata,A,A,exata,4373,4368,False,True,True,False,,
+Q0196,4388,4388,4377,4378,candidata,A,A,exata,4388,4377,False,True,True,False,,
+Q0197,5498,5498,5500,5500,candidata,A,A,exata,5498,5083,False,True,True,False,,
+Q0198,5073,5073,5071,5072,candidata,A,A,exata,5073,,False,True,True,False,,
+Q0199,5221,5227,5228,5218,candidata,D,D,irmaos,5218,5230,False,True,True,False,,
+Q0200,4705,4705,,5201,candidata,A,A,exata,4705,5522,True,False,True,False,,
+Q0201,5103,5103,,5063,candidata,B,B,exata,5103,5063,False,False,True,False,,
+Q0202,5109,5224,5108,5109,revisar,E,E,diverge,5109,5110;5224,False,False,True,False,,modelos divergem: 5109 (Outros Crimes Contra a Dignidade Sexual) vs 5224 (Erro de Tipo)
+Q0203,5496,5496,4702,4702,candidata,C,B,exata,5496,4702,False,False,True,True,lei_contra,penalidades: lei_contra
+Q0204,5507,5507,5505,5505,candidata,A,A,exata,5507,,False,True,True,False,,
+Q0205,5567,5512,5562,5560,revisar,E,E,diverge,5567,5515;5574;5562,False,False,True,False,,modelos divergem: 5567 (Carta Testemunhável) vs 5512 (Parte Geral dos Recursos)
+Q0206,5561,5583,5466,5466,revisar,E,E,diverge,5583,5514;5561,False,False,False,False,,modelos divergem: 5561 (Recurso em sentido estrito (RESE)) vs 5583 (Sujeitos do Processo)
+Q0207,4703,4703,5566,5201,candidata,C,C,exata,4703,5189;5209,False,False,False,False,,
+Q0208,5150,5150,5231,5231,candidata,B,B,exata,5150,5228,False,False,True,False,,
+Q0209,5498,5500,5499,5582,candidata,A,A,pai_filho,5498,5582,False,True,True,False,,
+Q0210,4697,4697,4693,4693,candidata,A,A,exata,4697,5183;5181;4693,True,False,True,False,,
+Q0211,5487,5582,5530,5535,revisar,E,E,diverge,5487,5582,False,False,False,False,,modelos divergem: 5487 (Comunicação dos Atos Processuais) vs 5582 (Princípios do Processo Penal)
+Q0212,5488,5488,5487,5187,candidata,B,B,exata,5488,5187;5543,False,False,True,False,,
+Q0213,5539,5533,5530,5487,revisar,E,E,diverge,5533,5487;5539,False,False,True,True,lei_contra,modelos divergem: 5539 (Procedimento Sumaríssimo) vs 5533 (Defesa Preliminar); penalidades: lei_contra
+Q0214,5494,5494,5492,5493,candidata,A,A,exata,5494,,False,True,True,False,,
+Q0215,5201,5576,5576,5201,revisar,E,E,sobreposicao,5201,5576,False,True,True,False,,modelos em ramos sobrepostos: 5201 (Penas Privativas de Liberdade) vs 5576 (Fixação da Pena e do Regime Penitenciário)
+Q0216,5541,5541,4701,4701,candidata,A,A,exata,5541,5472;5471;5543,True,False,True,False,,
+Q0217,4374,4370,4368,4374,revisar,E,E,diverge,4370,4374,False,False,True,False,,modelos divergem: 4374 (Política Criminal) vs 4370 (Modelos de Reação ao Delito)
+Q0218,5518,5518,5558,,candidata,C,B,exata,5518,,False,False,True,False,fora_recorte,penalidades: fora_recorte
+Q0219,5075,5074,5074,5071,candidata,D,D,irmaos,5071,,False,True,True,False,,
+Q0220,5501,5501,5466,5498,candidata,A,A,exata,5501,,False,True,True,False,,
+Q0221,5199,5200,5184,5184,candidata,A,A,pai_filho,5199,5172,False,True,True,False,,
+Q0222,4375,4375,4376,4376,candidata,B,B,exata,4375,4376,False,False,True,False,,
+Q0223,4703,5086,,5079,revisar,E,E,diverge,5086,4703,False,False,False,False,,modelos divergem: 4703 (Lei de Execução Penal) vs 5086 (Outros crimes contra a Administração Judicial)
+Q0224,5207,5207,5209,5209,candidata,B,B,exata,5207,5206,False,False,True,False,,
+Q0225,5478,5478,5571,5480,candidata,B,B,exata,5478,5571,False,False,True,False,,
+Q0226,5544,5544,5546,5546,candidata,B,B,exata,5544,,False,False,True,False,,
+Q0227,5103,5103,5108,5102,candidata,B,B,exata,5103,4709;5104;5150,False,False,True,False,,
+Q0228,4703,4703,5208,5208,candidata,C,C,exata,4703,5566,False,False,False,False,,
+Q0229,5517,5517,5586,5519,candidata,B,B,exata,5517,5588;5586,False,False,True,False,,
+Q0230,5212,5214,5214,5213,candidata,D,D,irmaos,5211,5071;5200;5184,False,False,True,False,,
+Q0231,5224,5224,5227,4708,candidata,B,B,exata,5224,4708,False,False,True,False,,
+Q0232,5079,5079,5080,5080,candidata,B,B,exata,5079,,False,False,True,False,,
+Q0233,5178,5178,5177,5179,candidata,A,A,exata,5178,5179,False,True,True,False,,
+Q0234,4381,4381,4382,4380,candidata,C,B,exata,4381,,False,False,True,False,generico,penalidades: generico
+Q0235,5561,5561,,,candidata,B,B,exata,5561,,False,False,True,False,,
+Q0236,5582,5582,5491,5490,candidata,C,B,exata,5582,5495;5535;5498,False,False,True,False,generico,penalidades: generico
+Q0237,5178,5178,5175,5177,candidata,A,A,exata,5178,,False,True,True,False,,
+Q0238,5523,5523,,,candidata,B,B,exata,5523,,False,False,True,False,,
+Q0239,5203,5199,5204,5207,candidata,B,B,pai_filho,5199,5066,False,False,True,False,,
+Q0240,5500,5500,5489,5498,candidata,B,B,exata,5500,5501;5531,False,False,True,False,,
+Q0241,5224,5224,5220,,candidata,A,A,exata,5224,,False,True,True,False,,
+Q0242,5560,5512,5513,5560,revisar,E,E,diverge,5560,5466;5513;5512,False,False,True,False,,modelos divergem: 5560 (Recursos em Espécies) vs 5512 (Parte Geral dos Recursos)
+Q0243,5178,5178,5191,5159,candidata,A,A,exata,5178,5159,False,True,True,False,,
+Q0244,5091,5091,5092,5092,candidata,A,A,exata,5091,5093,False,True,True,False,,
+Q0245,5189,5185,5187,5187,candidata,A,A,pai_filho,5185,,False,True,True,False,,
+Q0246,5527,5527,5526,5213,candidata,A,A,exata,5527,,False,True,True,False,,
+Q0247,5502,5502,5507,5507,candidata,B,B,exata,5502,4704;4690;5181,False,False,True,False,,
+Q0248,5087,5087,5100,5100,candidata,A,A,exata,5087,,False,True,True,False,,
+Q0249,5492,5492,5583,5583,candidata,C,C,exata,5492,5480,False,False,False,False,,
+Q0250,5201,5201,5576,5576,candidata,A,A,exata,5201,5202,False,True,True,False,,
+Q0251,5191,5191,5193,5193,candidata,A,A,exata,5191,5185,False,True,True,False,,
+Q0252,5208,5208,5206,5206,candidata,B,B,exata,5208,5193,False,False,True,False,,
+Q0253,4373,4373,,4371,candidata,B,B,exata,4373,,False,False,True,False,,
+Q0254,4704,4704,,,candidata,A,A,exata,4704,,True,False,True,False,,
+Q0255,5213,5213,5212,,candidata,A,A,exata,5213,,False,True,True,False,,
+Q0256,5224,5214,5214,5224,revisar,E,E,diverge,5224,5212;5214,False,True,True,False,,modelos divergem: 5224 (Erro de Tipo) vs 5214 (Erro de Proibição)
+Q0257,5227,5227,5219,5229,candidata,A,A,exata,5227,5172;5229;5219,False,True,True,False,,
+Q0258,5545,5545,5546,5546,candidata,B,B,exata,5545,,False,False,True,False,,
+Q0259,5183,5183,,5159,candidata,C,C,exata,5183,5159;5164,False,False,False,False,,
+Q0260,4368,4368,4374,4370,candidata,A,A,exata,4368,4376,False,True,True,False,,
+Q0261,5472,5136,4694,5063,revisar,E,E,diverge,5472,5063;5136,False,False,True,False,,modelos divergem: 5472 (Ação Penal de Iniciativa Privada) vs 5136 (Dos Crimes contra a Propriedade Imaterial)
+Q0262,4703,4703,5184,5184,candidata,A,A,exata,4703,,True,False,True,False,,
+Q0263,5492,5492,5583,5490,candidata,B,B,exata,5492,,False,False,True,False,,
+Q0264,5108,5109,5103,5103,candidata,D,D,irmaos,5102,,False,False,True,False,,
+Q0265,5185,5190,5066,5187,candidata,B,B,pai_filho,5185,5067,False,False,True,False,,
+Q0266,5480,5482,5524,5480,candidata,B,B,pai_filho,5480,5149,False,False,True,False,,
+Q0267,4708,5546,5546,4708,revisar,E,E,diverge,4708,5518;5546,True,False,False,False,,modelos divergem: 4708 (Tráfico de Drogas) vs 5546 (Perícia)
+Q0268,5120,5118,5121,5120,revisar,E,E,diverge,5120,5116;5080;4684,False,False,True,False,,modelos divergem: 5120 (Dos Crimes Contra a Honra) vs 5118 (Da Falsidade Documental)
+Q0269,4375,4375,4368,4368,candidata,B,B,exata,4375,,False,False,True,False,,
+Q0270,5091,5091,5092,5092,candidata,B,B,exata,5091,,False,False,True,False,,
+Q0271,5515,5562,5562,5513,revisar,E,E,diverge,5515,5513;5524;5562,False,False,True,False,,modelos divergem: 5515 (Efeito dos Recursos) vs 5562 (Apelação)
+Q0272,4703,4703,,5187,candidata,A,A,exata,4703,5190;5187,True,False,True,False,,
+Q0273,5089,5089,,,candidata,B,B,exata,5089,,False,False,True,False,,
+Q0274,5160,5160,5177,5177,candidata,A,A,exata,5160,5150,False,True,True,False,,
+Q0275,5539,5539,4701,5488,candidata,A,A,exata,5539,5487;5488,True,False,True,False,,
+Q0276,5543,5543,5554,5554,candidata,B,B,exata,5543,,False,False,True,False,,
+Q0277,4696,4696,5142,,candidata,C,B,exata,4696,,False,False,True,False,fora_recorte,penalidades: fora_recorte
+Q0278,5542,5542,4701,4701,candidata,B,B,exata,5542,5471,False,False,True,False,,
+Q0279,5188,5188,5159,5187,candidata,C,C,exata,5188,5178;5177;5159,False,False,False,False,,
+Q0280,5121,5121,5471,5466,candidata,C,B,exata,5121,5474;5122;5472,False,False,True,False,generico,penalidades: generico
+Q0281,5555,5543,4700,5500,candidata,B,B,pai_filho,5543,5594,False,False,True,False,,
+Q0282,4697,4704,4704,4697,revisar,E,E,diverge,4697,4690;4704,True,False,True,False,,modelos divergem: 4697 (Estatuto do Desarmamento) vs 4704 (Lei Maria da Penha)
+Q0283,5496,5496,5490,5490,candidata,B,B,exata,5496,5561,False,False,True,False,,
+Q0284,5214,5224,5231,5231,revisar,E,E,diverge,5214,5527;5574;5224,False,False,True,False,,modelos divergem: 5214 (Erro de Proibição) vs 5224 (Erro de Tipo)
+Q0285,4376,4376,4375,4375,candidata,B,B,exata,4376,,False,False,True,False,,
+Q0286,5204,5199,5203,5203,candidata,B,B,pai_filho,5199,,False,False,True,False,,
+Q0287,5230,5230,,5228,candidata,A,A,exata,5230,5214;5213,False,True,True,False,,
+Q0288,5068,5068,5103,5103,candidata,B,B,exata,5068,4695;4688;5108,False,False,True,False,,
+Q0289,4704,4704,,,candidata,A,A,exata,4704,5476;4709,True,False,True,False,,
+Q0290,5539,5539,5471,4701,candidata,A,A,exata,5539,5470;5471,True,False,True,False,,
+Q0291,4708,5500,5500,5498,revisar,E,E,diverge,5500,4708,False,False,True,False,,modelos divergem: 4708 (Tráfico de Drogas) vs 5500 (Procedimento do Inquérito Policial)
+Q0292,4368,4374,4374,4368,revisar,E,E,diverge,4374,4368,False,True,True,False,,modelos divergem: 4368 (Criminologia no Estado Democrático de Direito) vs 4374 (Política Criminal)
+Q0293,5189,5189,5205,5188,candidata,B,B,exata,5189,5206,False,False,True,False,,
+Q0294,5211,5212,5212,5211,candidata,A,A,pai_filho,5211,,False,True,True,False,,
+Q0295,5489,5489,5487,5487,candidata,B,B,exata,5489,5472,False,False,True,False,,
+Q0296,5472,5472,5065,5474,candidata,A,A,exata,5472,5198,False,True,True,False,,
+Q0297,4695,4695,,4689,candidata,A,A,exata,4695,5206;4689,True,False,True,False,,
+Q0298,4694,4694,,5222,candidata,C,B,exata,4694,,False,False,True,True,lei_contra,penalidades: lei_contra
+Q0299,4371,4388,4385,4377,revisar,E,E,diverge,4371,4377;4384;4388,False,False,True,False,,modelos divergem: 4371 (Etapas Evolutivas e Escolas Criminológicas) vs 4388 (Teorias Criminológicas em Espécie)
+Q0300,5084,5084,5074,5071,candidata,B,B,exata,5084,5169;5160,False,False,True,False,,
+Q0301,5197,5197,5077,5191,candidata,C,C,exata,5197,5120;4691,False,False,False,False,,
+Q0302,5224,5224,5221,,candidata,B,B,exata,5224,,False,False,True,False,,
+Q0303,5182,5180,5181,5182,candidata,B,B,pai_filho,5180,,False,False,True,False,,
+Q0304,4701,5540,5540,4701,revisar,E,E,diverge,4701,5541;5472;5540,True,False,True,False,,modelos divergem: 4701 (Juizado Especial Criminal) vs 5540 (Competência dos Juizados Especiais Criminais)
+Q0305,5466,5064,5471,5471,revisar,E,E,diverge,5466,5064,False,True,True,False,,modelos divergem: 5466 (Ação Penal) vs 5064 (Ação Penal Pública)
+Q0306,5146,5146,4705,4705,candidata,B,B,exata,5146,4708,False,True,False,False,,
+Q0307,4707,4707,5071,5071,candidata,A,A,exata,4707,,True,False,True,False,,
+Q0308,5501,5467,5467,5501,revisar,E,E,diverge,5501,5494;5467,False,True,True,False,,modelos divergem: 5501 (Conclusão e Arquivamento do Inquérito Policial) vs 5467 (Características e Condições da Ação Penal)
+Q0309,4688,4688,,,candidata,B,A,exata,4688,,True,False,True,False,fora_recorte,penalidades: fora_recorte
+Q0310,5505,5505,5508,5507,candidata,A,A,exata,5505,,False,True,True,False,,
+Q0311,5488,5488,5487,5487,candidata,B,B,exata,5488,5505,False,False,True,False,,
+Q0312,4384,4384,4374,5200,candidata,A,A,exata,4384,,False,True,True,False,,
+Q0313,5577,5209,5475,5577,revisar,E,E,sobreposicao,5209,5475;5577,False,True,True,False,,modelos em ramos sobrepostos: 5577 (Efeitos Decorrentes da Sentença Penal Condenatória) vs 5209 (Efeitos da Condenação Penais e Extrapenais)
+Q0314,5477,5477,,5476,candidata,B,B,exata,5477,,False,False,True,False,,
+Q0315,5189,5189,5188,5187,candidata,B,B,exata,5189,,False,False,True,False,,
+Q0316,5224,5224,5076,5153,candidata,C,C,exata,5224,5153,False,False,False,False,,
+Q0317,5198,5198,5471,5471,candidata,B,B,exata,5198,5466,False,False,True,False,,
+Q0318,5178,5178,5150,5150,candidata,B,B,exata,5178,5177;5150,False,False,True,False,,
+Q0319,5073,5073,5174,5071,candidata,B,B,exata,5073,5223,False,True,False,False,,
+Q0320,5550,5550,,5543,candidata,B,B,exata,5550,,False,False,True,False,,
+Q0321,5071,5071,5073,5073,candidata,A,A,exata,5071,5154;4705;4708,False,True,True,False,,
+Q0322,5561,5561,,5560,candidata,B,B,exata,5561,5531,False,False,True,False,,
+Q0323,5590,5543,5557,5590,revisar,E,E,diverge,5590,5547;5555;5557,False,False,True,False,generico,modelos divergem: 5590 (Teoria Geral das Provas) vs 5543 (Provas em Espécies); penalidades: generico
+Q0324,4703,5199,5184,5184,revisar,E,E,diverge,5199,4686;4703,False,True,True,False,,modelos divergem: 4703 (Lei de Execução Penal) vs 5199 (Teoria da Pena)
+Q0325,5471,5466,5467,5471,candidata,A,A,pai_filho,5466,5531;5196,False,True,True,False,,
+Q0326,4708,4708,,,candidata,A,A,exata,4708,,True,False,True,False,,
+Q0327,5203,5203,5576,,candidata,B,B,exata,5203,5548,False,False,True,False,,
+Q0328,4382,4382,4374,4374,candidata,B,B,exata,4382,,False,False,True,False,,
+Q0329,5557,5557,4705,4705,candidata,B,B,exata,5557,5075;5080,False,False,True,False,,
+Q0330,5501,5501,5503,5581,candidata,A,A,exata,5501,5581;5500,False,True,True,False,,
+Q0331,5477,5477,5476,5476,candidata,B,B,exata,5477,,False,False,True,False,,
+Q0332,5541,5541,4701,4701,candidata,B,B,exata,5541,,False,False,True,False,,
+Q0333,4373,4373,5174,,candidata,C,C,exata,4373,5219;5178;5201,False,False,False,False,,
+Q0334,4381,4381,4380,4380,candidata,C,B,exata,4381,,False,False,True,False,generico,penalidades: generico
+Q0335,5223,5221,5222,5222,candidata,D,D,irmaos,5218,5174;5170,False,False,True,False,,
+Q0336,5159,5159,5177,5177,candidata,A,A,exata,5159,,False,True,True,False,,
+Q0337,4684,4684,5468,5468,candidata,A,A,exata,4684,5466,True,False,True,False,,
+Q0338,5548,5543,5545,5590,candidata,B,B,pai_filho,5543,,False,False,True,False,,
+Q0339,5578,5578,5565,5510,candidata,B,B,exata,5578,5579;5510;5565,False,False,True,False,,
+Q0340,5071,5071,5076,5074,candidata,A,A,exata,5071,,False,True,True,False,,
+Q0341,5157,5157,5158,5118,candidata,B,B,exata,5157,,False,False,True,False,,
+Q0342,5546,5546,5545,5545,candidata,B,B,exata,5546,,False,False,True,False,,
+Q0343,5196,5195,5472,5196,candidata,D,D,irmaos,5191,,False,False,True,False,,
+Q0344,4688,4688,5468,5470,candidata,A,A,exata,4688,5064;5470;5471,True,False,True,False,,
+Q0345,5103,5103,5203,5105,candidata,B,B,exata,5103,5110;5106;5203,False,False,True,False,,
+Q0346,5583,5583,5466,5466,candidata,C,B,exata,5583,4694;5480;5524,False,False,True,True,lei_contra,penalidades: lei_contra
+Q0347,5208,5207,5069,5230,candidata,D,D,irmaos,5199,5069;5232,False,False,True,False,,
+Q0348,5093,5093,5182,5182,candidata,B,B,exata,5093,5180;5191;5182,False,False,True,False,,
+Q0349,5178,5178,5160,5160,candidata,B,B,exata,5178,5160,False,False,True,False,,
+Q0350,4702,4702,,5174,candidata,A,A,exata,4702,,True,False,True,False,,
+Q0351,5119,5118,5118,,candidata,D,D,irmaos,5116,,False,False,True,False,,
+Q0352,5515,5512,5513,5513,candidata,B,B,pai_filho,5512,,False,False,True,False,,
+Q0353,5185,5535,5190,5190,revisar,E,E,diverge,5185,5535,False,False,True,False,,modelos divergem: 5185 (Prescrição) vs 5535 (Audiência de Instrução e Julgamento)
+Q0354,5226,5218,5218,5226,candidata,A,A,pai_filho,5218,5073;5211,False,True,True,False,,
+Q0355,4708,4708,,5502,candidata,B,B,exata,4708,5502;4684,True,False,False,False,,
+Q0356,5066,5066,5070,5067,candidata,A,A,exata,5066,,False,True,True,False,,
+Q0357,5135,5135,,,candidata,B,B,exata,5135,,False,False,True,False,,
+Q0358,,5133,4700,,revisar,E,E,um_nenhum,5133,,False,True,False,False,,"um modelo diz que nenhum tema serve; o outro, 5133 (Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos)"
+Q0359,5539,4701,5541,5539,revisar,E,E,sobreposicao,5539,4701;4696,True,False,False,False,,modelos em ramos sobrepostos: 5539 (Procedimento Sumaríssimo) vs 4701 (Juizado Especial Criminal)

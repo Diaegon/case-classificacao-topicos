@@ -1,0 +1,48 @@
+# Regras de lei (etapa 2, sinal II): citação de lei na questão → tema(s).
+# Curadoria desta base. Proposta do Claude a partir da lista inicial do usuário; Revisado por: (pendente).
+#
+# Uma citação é evidência de que o tema APARECE, não de que é o central (ex.: questão de ANPP que
+# cita a Maria da Penha como exceção). Por isso o sinal guarda onde a citação está e quantas vezes.
+#
+# numeros: número da lei sem ponto. Aceita "Lei nº 11.343/06", "Lei 11343", "L. 11.343", "Lei n. º 11.343".
+#          O número sozinho só conta com ponto e ano ("11.343/06"), para não confundir com outros números.
+# nomes:   regex (sem distinguir maiúsculas, exceto siglas escritas com \b e em caixa alta via (?-i:...)).
+# temas:   ids publicáveis. Duas ids quando a árvore tem o tema em dois ramos (sobreposição).
+
+leis:
+  - {lei: Drogas, numeros: [11343, 6368], nomes: ['Lei de Drogas', 'Lei de T[óo]xicos', 'Lei Antidrogas'], temas: [4708]}
+  - {lei: Maria da Penha, numeros: [11340], nomes: ['Maria da Penha'], temas: [4704]}
+  - {lei: Abuso de Autoridade, numeros: [13869, 4898], nomes: ['Lei de Abuso de Autoridade'], temas: [4684]}
+  - {lei: Crimes Hediondos, numeros: [8072], nomes: ['Lei d[eo]s? Crimes Hediondos'], temas: [4693]}
+  - {lei: Lavagem, numeros: [9613, 12683], nomes: ['Lei de Lavagem'], temas: [4702]}
+  - {lei: Organizações Criminosas, numeros: [12850, 9034], nomes: ['Lei d[ea]s? Organiza[çc][õo]es Criminosas', 'Lei do Crime Organizado'], temas: [4705]}
+  - {lei: Desarmamento, numeros: [10826], nomes: ['Estatuto do Desarmamento', 'Lei de Armas'], temas: [4697]}
+  - {lei: Tortura, numeros: [9455], nomes: ['Lei de Tortura', 'Lei da Tortura'], temas: [4707]}
+  - {lei: Execução Penal, numeros: [7210], nomes: ['Lei de Execu[çc][ãa]o Penal', '(?-i:\bLEP\b)'], temas: [4703]}
+  - {lei: Juizados Especiais, numeros: [9099], nomes: ['Juizados? Especia(l|is) Crimina(l|is)', '(?-i:\bJECRIM\b)'], temas: [4701, 5539, 5569]}  # 5569: recursos nos Juizados (Q0012)
+  - {lei: Interceptação Telefônica, numeros: [9296], nomes: ['Lei de Intercepta[çc][ãa]o'], temas: [4700, 5555]}
+  - {lei: Terrorismo, numeros: [13260], nomes: ['Lei Antiterrorismo', 'Lei Antiterror'], temas: [4706]}
+  - {lei: Crimes Tributários, numeros: [8137], nomes: [], temas: [4695]}
+  - {lei: Racismo, numeros: [7716], nomes: ['Lei do Racismo'], temas: [4690]}
+  - {lei: Genocídio, numeros: [2889], nomes: [], temas: [4698]}
+  - {lei: Sistema Financeiro, numeros: [7492], nomes: ['Lei do Colarinho Branco'], temas: [4689]}
+  - {lei: Meio Ambiente, numeros: [9605], nomes: ['Lei de Crimes Ambientais', 'Lei dos Crimes Ambientais'], temas: [4688]}
+  - {lei: CDC, numeros: [8078], nomes: ['C[óo]digo de Defesa do Consumidor', '(?-i:\bCDC\b)'], temas: [4694]}
+  - {lei: Economia Popular, numeros: [1521], nomes: [], temas: [4687]}
+  - {lei: Trânsito, numeros: [9503], nomes: ['C[óo]digo de Tr[âa]nsito', '(?-i:\bCTB\b)'], temas: [4691]}
+  - {lei: Estatuto do Idoso, numeros: [10741], nomes: ['Estatuto do Idoso', 'Estatuto da Pessoa Idosa'], temas: [4696]}
+  - {lei: ECA, numeros: [8069], nomes: ['Estatuto da Crian[çc]a e do Adolescente', '(?-i:\bECA\b)'], temas: [4709]}
+  - {lei: Contravenções Penais, numeros: [3688], nomes: ['Lei das Contraven[çc][õo]es Penais', '(?-i:\bLCP\b)'], temas: [4686]}
+  - {lei: Eleitoral, numeros: [4737], nomes: ['C[óo]digo Eleitoral'], temas: [4692]}
+  - {lei: Identificação Criminal, numeros: [12037], nomes: [], temas: [4699]}
+  - {lei: Biossegurança, numeros: [11105], nomes: ['Lei de Biosseguran[çc]a'], temas: [4685]}
+
+# Artigos do CPP com tema próprio. "3º-A" a "3º-F" e "28-A" não existem no CP, então não há ambiguidade.
+artigos:
+  - {lei: Juiz das Garantias, regex: 'art(igo)?s?\.?\s*3\s*[º°o]?\s*-\s*[A-F]\b', temas: [5503]}
+  - {lei: ANPP, regex: 'art(igo)?s?\.?\s*28\s*-\s*A\b', temas: [5502]}
+
+# Leis citadas nas questões que NÃO viram regra (não há um tema único para elas):
+#   13.964/2019 (Pacote Anticrime: altera dezenas de temas), 14.597/2023 (Lei Geral do Esporte),
+#   9.609/1998 (software), 13.146/2015 (Estatuto da Pessoa com Deficiência), 10.216/2001 (saúde mental),
+#   12.015/2009 (reforma dos crimes sexuais; Q0077 cita a lei mas cobra lei penal no tempo), 9.029/1995.

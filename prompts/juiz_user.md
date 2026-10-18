@@ -1,0 +1,5 @@
+QUESTÃO
+
+$questao
+
+$sugestoes

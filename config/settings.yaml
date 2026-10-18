@@ -1,0 +1,57 @@
+# Configuração central do pipeline. Toda escolha ajustável fica aqui, não no código.
+
+modelos:
+  # Opção "econômica" (os mais baratos com qualidade razoável), escolhida pelo usuário em 2026-10-16.
+  # Dois modelos de gerações diferentes, para os votos errarem de forma menos correlacionada.
+  llm_model_a: gpt-5.4-mini
+  llm_model_b: gpt-6-luna
+  llm_model_descricoes: gpt-5.4-mini   # descrições enriquecidas da árvore (etapa 1b)
+  embedding_model: text-embedding-3-small
+
+# Preço em US$ por 1M de tokens (tier padrão), conferido em
+# https://developers.openai.com/api/docs/pricing em 2026-10-16. Só serve para estimar o custo.
+precos:
+  gpt-5.4-mini:           {input: 0.75, cached_input: 0.075, output: 4.50}
+  gpt-6-luna:             {input: 0.10, cached_input: 0.01,  output: 0.50}
+  gpt-5-nano:             {input: 0.05, cached_input: 0.005, output: 0.40}
+  gpt-6.1-sol:            {input: 2.00, cached_input: 0.10,  output: 10.00}
+  gpt-5.6-terra:          {input: 2.00, cached_input: 0.20,  output: 12.00}
+  text-embedding-3-small: {input: 0.02, cached_input: 0.02,  output: 0.0}
+  text-embedding-3-large: {input: 0.13, cached_input: 0.13,  output: 0.0}
+
+api:
+  max_concorrencia: 8        # chamadas simultâneas (o limite fica abaixo do rate limit)
+  max_concorrencia_juiz: 4   # o juiz manda ~26 mil tokens por chamada; com 8 em paralelo a conta
+                             # passou do limite de 2M tokens/min (o prefixo em cache também conta)
+  max_tentativas: 7          # retry com backoff em erro transitório (429/5xx/timeout); até ~2 min
+  timeout_s: 120
+  dir_cache: cache           # respostas em disco: rodar de novo não custa nada
+
+seed: 42
+
+caminhos:
+  raw: data/raw
+  interim: data/interim
+  gold: data/gold
+  outputs: outputs
+  prompts: prompts
+
+# Suposições que dependem de resposta da recrutadora (ver DECISOES.md).
+suposicoes:
+  nivel0_publicavel: false       # publicar na raiz da disciplina não conta como pai
+  distancia_pai_filho: 1         # "pai ou filho" vale para um nível só
+  duplicata_canonica: original   # nos temas duplicados, o gabarito usa o nó original (id antigo)
+
+# Regra de decisão (etapa 4). O limiar de PUBLICAR não está aqui: sai da calibração (etapa 5).
+decisao:
+  busca_top_n: 3        # "a busca concorda" = consenso (ou pai/filho) entre os N primeiros da busca
+  cos_fora: 0.60        # ~percentil 25 do cosseno máximo; "fora" exige os dois modelos em nenhum_serve E cosseno abaixo disto
+  max_extras: 3
+
+# Calibração com o gabarito (etapa 5): escolhe quais níveis da decisão publicam.
+calibracao:
+  precisao_alvo: 0.95
+  criterio: pontual           # limite_inferior (Wilson) ou pontual. Pontual desde 2026-10-18: com 1 erro, certificar 95% pelo Wilson exigiria ≥ 110 publicadas rotuladas com z = 1,96 (≥ 87 com 1,645); ver DECISOES.md
+  z: 1.96                     # 95% bilateral
+  folds: 5                    # validação cruzada (seed global)
+  prior: [1, 1]               # Beta(1, 1) para a confiança por nível

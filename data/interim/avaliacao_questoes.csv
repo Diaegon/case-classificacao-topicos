@@ -1,0 +1,16 @@
+id,gold_tema_id,gold_extras,certeza,obs,nivel,decisao_previa,tema_central_id,concordancia,penalidades,acerto,so_duplicata,peso,acerto_a,acerto_b,acerto_baseline
+Q0222,4375,4376,alta,"'O tema principal é o 4375 porque a questão trata da teoria das velocidades do direito penal como um todo, que é uma corrente de política criminal.'",B,candidata,4375,exata,,True,False,5.3793,True,True,True
+Q0237,5178,5176,alta,,A,candidata,5178,exata,,True,False,5.3793,True,True,True
+Q0074,4703,5180,alta,"'Escolhi a LEP como tema principal porque o núcleo da questão é a competência do juiz da execução (art. 66, I).'",E,revisar,5181,diverge,generico,False,False,2.9091,False,True,False
+Q0352,5512,5514;5513;5515,alta,,B,candidata,5512,pai_filho,,True,False,5.0769,True,True,True
+Q0042,5222,,alta,,B,candidata,5222,exata,,True,False,5.3793,True,True,True
+Q0061,4703,,alta,,B,candidata,4703,exata,,True,False,2.9091,True,True,True
+Q0058,4378,4390;4387,alta,,B,candidata,4368,exata,,False,False,2.8182,False,False,False
+Q0079,5581,5582,alta,,B,candidata,5581,exata,generico,True,False,5.0769,True,True,True
+Q0056,5070,5068;5067;5069;5066,alta,,B,candidata,5066,exata,,True,False,5.3793,True,True,True
+Q0185,4703,5566,alta,"'O núcleo da questão é a LEP: falta grave, regressão de regime, RDD e procedimento disciplinar.'",B,candidata,4703,exata,,True,False,5.3793,True,True,True
+Q0257,5227,5219;5229,alta,,A,candidata,5227,exata,,True,False,5.3793,True,True,True
+Q0062,5182,,alta,,B,candidata,5182,exata,,True,False,2.9091,True,True,True
+Q0141,4388,4387,alta,,A,candidata,4388,exata,,True,False,2.8182,True,True,False
+Q0205,5512,5567;5513;5514;5515,alta,,E,revisar,5567,diverge,,False,False,5.0769,False,True,False
+Q0195,4373,4387,alta,,A,candidata,4373,exata,,True,False,2.8182,True,True,True

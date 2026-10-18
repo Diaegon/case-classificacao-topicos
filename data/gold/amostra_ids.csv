@@ -1,0 +1,81 @@
+ordem,id,estrato,peso_estrato,disciplina,assunto_origem,seed
+1,Q0222,Penal,5.3793,Penal,Ação Penal,42
+2,Q0237,Penal,5.3793,Penal,Iter Criminis,42
+3,Q0219,Penal,5.3793,Penal,Concurso de Pessoas,42
+4,Q0074,Direito Penal - Legislação Especial,2.9091,Direito Penal - Legislação Especial,Teoria da Pena (Parte 02),42
+5,Q0260,Criminologia,2.8182,Criminologia,Criminologia no Estado Democrático de Direito,42
+6,Q0352,Processo Penal,5.0769,Processo Penal,Ação Penal,42
+7,Q0042,Penal,5.3793,Penal,"Tipo Penal Doloso, Tipicidade",42
+8,Q0061,Direito Penal - Legislação Especial,2.9091,Direito Penal - Legislação Especial,Teoria da Pena (Parte 02),42
+9,Q0058,Criminologia,2.8182,Criminologia,Teorias Legitimidoras da Pena,42
+10,Q0079,Processo Penal,5.0769,Processo Penal,Sistemas e Princípios Processuais Penais,42
+11,Q0056,Penal,5.3793,Penal,Concurso de Crimes,42
+12,Q0185,Penal,5.3793,Penal,Legislação Penal Especial,42
+13,Q0257,Penal,5.3793,Penal,"Teoria Geral do Delito, Tipicidade",42
+14,Q0062,Direito Penal - Legislação Especial,2.9091,Direito Penal - Legislação Especial,Concurso de Crimes,42
+15,Q0141,Criminologia,2.8182,Criminologia,Teorias Sociológicas Explicativas da Criminalidade,42
+16,Q0205,Processo Penal,5.0769,Processo Penal,Ação Penal (Parte 02),42
+17,Q0195,Criminologia,2.8182,Criminologia,Etapas Evolutivas e Escolas Criminológicas,42
+18,Q0240,Processo Penal,5.0769,Processo Penal,Ação Penal (Parte 01),42
+19,Q0227,Penal,5.3793,Penal,Lesão Corporal,42
+20,Q0220,Processo Penal,5.0769,Processo Penal,Inquérito Policial,42
+21,Q0277,Outras (fora do recorte),2.6667,,,42
+22,Q0137,Outras (fora do recorte),2.6667,,,42
+23,Q0173,Direito Penal - Legislação Especial,2.9091,Direito Penal - Legislação Especial,Teoria da Pena (Parte 02),42
+24,Q0002,Criminologia,2.8182,Criminologia,Teorias Legitimidoras da Pena,42
+25,Q0164,Direito Penal - Legislação Especial,2.9091,Direito Penal - Legislação Especial,Teoria da Pena (Parte 02),42
+26,Q0023,Processo Penal,5.0769,Processo Penal,Procedimento do Júri,42
+27,Q0211,Processo Penal,5.0769,Processo Penal,"Do juiz, do ministério público, do acusado e defensor, dos assistentes e auxiliares da justiça",42
+28,Q0068,Penal,5.3793,Penal,Crimes contra a fé pública,42
+29,Q0259,Penal,5.3793,Penal,Teoria do Crime (Ilicitude),42
+30,Q0296,Processo Penal,5.0769,Processo Penal,Ação Penal (Parte 01),42
+31,Q0282,Processo Penal,5.0769,Processo Penal,Ação Penal,42
+32,Q0343,Processo Penal,5.0769,Processo Penal,"Ação penal de iniciativa privada: definição, princípios e espécies, Ação Penal",42
+33,Q0234,Criminologia,2.8182,Criminologia,Conceitos Gerais de Criminologia,42
+34,Q0080,Criminologia,2.8182,Criminologia,Criminologia no Estado Democrático de Direito,42
+35,Q0130,Penal,5.3793,Penal,Concurso de Crimes,42
+36,Q0093,Penal,5.3793,Penal,Concurso de Crimes,42
+37,Q0274,Penal,5.3793,Penal,"Roubo, Crimes contra o patrimônio",42
+38,Q0029,Direito Penal - Legislação Especial,2.9091,Direito Penal - Legislação Especial,Medida de Segurança,42
+39,Q0218,Outras (fora do recorte),2.6667,,,42
+40,Q0230,Penal,5.3793,Penal,Concurso de Pessoas,42
+41,Q0065,Penal,5.3793,Penal,Lesão Corporal,42
+42,Q0148,Penal,5.3793,Penal,Teoria da Pena (Parte 01),42
+43,Q0140,Penal,5.3793,Penal,Concurso de Crimes,42
+44,Q0103,Processo Penal,5.0769,Processo Penal,Ação Penal (Parte 01),42
+45,Q0104,Processo Penal,5.0769,Processo Penal,Inquérito Policial,42
+46,Q0354,Penal,5.3793,Penal,Teoria do Crime (Fato Típico) Parte 02,42
+47,Q0011,Direito Penal - Legislação Especial,2.9091,Direito Penal - Legislação Especial,Concurso de Crimes,42
+48,Q0133,Processo Penal,5.0769,Processo Penal,Procedimento do Júri,42
+49,Q0035,Direito Penal - Legislação Especial,2.9091,Direito Penal - Legislação Especial,,42
+50,Q0196,Criminologia,2.8182,Criminologia,Teorias Sociológicas Explicativas da Criminalidade (Parte 02),42
+51,Q0020,Processo Penal,5.0769,Processo Penal,Ação Penal (Parte 02),42
+52,Q0034,Processo Penal,5.0769,Processo Penal,Inquérito Policial,42
+53,Q0333,Penal,5.3793,Penal,Iter Criminis,42
+54,Q0225,Processo Penal,5.0769,Processo Penal,Ação Penal (Parte 01),42
+55,Q0132,Processo Penal,5.0769,Processo Penal,Comunicação dos atos processuais,42
+56,Q0026,Processo Penal,5.0769,Processo Penal,Ação Penal,42
+57,Q0236,Processo Penal,5.0769,Processo Penal,Ação Penal (Parte 01),42
+58,Q0175,Penal,5.3793,Penal,"Corrupção passiva, Concussão e Excesso de Exação , Crimes contra a administração pública",42
+59,Q0161,Processo Penal,5.0769,Processo Penal,Inquérito Policial,42
+60,Q0091,Penal,5.3793,Penal,Teoria da Pena (Parte 02),42
+61,Q0092,Processo Penal,5.0769,Processo Penal,Nulidades no Processo Penal,42
+62,Q0044,Processo Penal,5.0769,Processo Penal,"Das Provas, Das Citações e Intimações, Confissão no Processo Penal",42
+63,Q0145,Direito Penal - Legislação Especial,2.9091,Direito Penal - Legislação Especial,Concurso de Crimes,42
+64,Q0328,Criminologia,2.8182,Criminologia,Conceitos Gerais de Criminologia,42
+65,Q0229,Processo Penal,5.0769,Processo Penal,Lei Processual Penal no tempo e no espaço,42
+66,Q0192,Penal,5.3793,Penal,Concussão e Excesso de Exação,42
+67,Q0064,Penal,5.3793,Penal,Causas de extinção da punibilidade,42
+68,Q0081,Criminologia,2.8182,Criminologia,Etapas Evolutivas e Escolas Criminológicas,42
+69,Q0351,Penal,5.3793,Penal,Teoria do Crime (Ilicitude),42
+70,Q0059,Criminologia,2.8182,Criminologia,Teorias Legitimidoras da Pena,42
+71,Q0239,Penal,5.3793,Penal,Punibilidade,42
+72,Q0270,Penal,5.3793,Penal,"Corrupção ativa, Corrupção passiva, Peculato",42
+73,Q0128,Processo Penal,5.0769,Processo Penal,Ação Penal (Parte 01),42
+74,Q0221,Penal,5.3793,Penal,"Diferenças entre reclusão e detenção, Sanções penais, Penas privativas de liberdade",42
+75,Q0075,Penal,5.3793,Penal,Causas de extinção da punibilidade,42
+76,Q0295,Processo Penal,5.0769,Processo Penal,Comunicação dos atos processuais,42
+77,Q0181,Direito Penal - Legislação Especial,2.9091,Direito Penal - Legislação Especial,Concurso de Crimes,42
+78,Q0006,Penal,5.3793,Penal,Roubo,42
+79,Q0129,Processo Penal,5.0769,Processo Penal,Comunicação dos atos processuais,42
+80,Q0304,Direito Penal - Legislação Especial,2.9091,Direito Penal - Legislação Especial,,42

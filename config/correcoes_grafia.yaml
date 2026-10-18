@@ -1,0 +1,24 @@
+# Correções de grafia aplicadas SÓ às colunas *_norm de temas_tratados.csv (busca e prompts).
+# O titulo, a descricao e o tema_id originais nunca mudam.
+#
+# Cada correção é explícita (tema_id + trecho exato). Se o trecho não existir no texto,
+# o tratamento falha: assim uma correção nunca deixa de ser aplicada em silêncio.
+# Revisado por: (pendente)
+
+titulos:
+  - {tema_id: 4373, de: "Crimonológicas", para: "Criminológicas"}
+  - {tema_id: 4384, de: "Legitimidoras", para: "Legitimadoras"}
+  - {tema_id: 4696, de: "Estaturo de Idoso", para: "Estatuto do Idoso"}
+  - {tema_id: 5483, de: "Comeptência", para: "Competência"}
+  - {tema_id: 5499, de: "Caractéristas", para: "Características"}
+  - {tema_id: 5136, de: "Crimescontra", para: "Crimes contra"}
+  - {tema_id: 5567, de: "Testemunhavel", para: "Testemunhável"}
+  - {tema_id: 5081, de: "Falso Testemunha", para: "Falso Testemunho"}
+  - {tema_id: 5144, de: "Contra à Paz", para: "Contra a Paz"}
+  - {tema_id: 5146, de: "Contra à Paz", para: "Contra a Paz"}
+  - {tema_id: 5158, de: "12 Disposições", para: "Disposições"}   # número solto no início
+  - {tema_id: 5531, de: "2 Oferecimento", para: "Oferecimento"}  # número solto no início
+
+descricoes:
+  # Palavra árabe no lugar de "defesa": "o interrogatório como meio de الدفاع".
+  - {tema_id: 5530, de: "الدفاع", para: "defesa"}

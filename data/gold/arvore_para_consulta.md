@@ -1,0 +1,388 @@
+# Árvore de temas (ativos) para consulta durante a rotulagem
+
+Formato: `tema_id` título. Nível 0 = disciplina (não usar como rótulo, salvo se nada mais servir).
+Títulos como estão no arquivo original. Inativos omitidos.
+
+
+## `4365` Criminologia
+
+- `4366` Classificação das Vítimas
+- `4367` Classificação dos Criminosos
+- `4368` Criminologia no Estado Democrático de Direito
+  - `4370` Modelos de Reação ao Delito
+  - `4369` Sistemas de Prevenção
+- `4371` Etapas Evolutivas e Escolas Criminológicas
+  - `4373` Escolas Crimonológicas
+  - `4372` Etapas Evolutivas da Criminologia (Antiguidade, Idade Média e Idade Moderna)
+- `4374` Política Criminal
+  - `4375` Correntes da Política Criminal
+  - `4376` Direito Penal do Inimigo
+- `4377` Processos de Criminalização e Cifras Criminais
+  - `4379` Cifras Criminais
+  - `4378` Criminalização Primária e Secundária
+- `4380` Teoria Geral da Criminologia
+  - `4381` Conceito e objeto da Criminologia
+  - `4382` Métodos e funções da Criminologia
+- `4383` Teorias e Síndromes com Enfoque nas Vítimas
+- `4384` Teorias Legitimidoras da Pena
+- `4385` Teorias Sociológicas Explicativas da Criminalidade
+  - `4388` Teorias Criminológicas em Espécie
+  - `4386` Teorias de Nível Individual
+  - `4387` Teorias de Nível Sociológico
+- `4389` Vitimologia
+  - `4390` Processo de Vitimização
+
+## `4683` Direito Penal - Legislação Especial
+
+- `4684` Abuso de Autoridade
+- `4685` Biossegurança
+- `4686` Contravenções Penais
+- `4687` Crimes contra a Economia Popular
+- `4688` Crimes contra o meio ambiente
+- `4689` Crimes contra o Sistema Financeiro
+- `4690` Crimes de Racismo
+- `4691` Crimes de Trânsito
+- `4692` Crimes Eleitorais
+- `4693` Crimes Hediondos
+- `4694` Crimes previstos no CDC
+- `4695` Crimes Tributários
+- `4696` Estaturo de Idoso - Crimes
+- `4697` Estatuto do Desarmamento
+- `4698` Genocídio
+- `4699` Identificação Criminal
+- `4700` Interceptação Telefônica
+- `4701` Juizado Especial Criminal
+- `4702` Lavagem de Dinheiro
+- `4703` Lei de Execução Penal
+- `4704` Lei Maria da Penha
+- `4705` Organizações Criminosas
+- `4706` Terrorismo
+- `4707` Tortura
+- `4708` Tráfico de Drogas
+- `4709` Violência contra Criança e Adolescente
+
+## `5062` Penal
+
+- `6716` Abuso de Autoridade
+- `5063` Ação Penal — _Ação Penal, no âmbito do Direito Penal, trata da iniciativa estatal ou privada para provocar a jurisdição criminal, compreendendo legitimidade, interesse de agir, condições da ação, representação, requisição e os princípios da inércia, obrigatoriedade, oportunidade, indisponibilidade, divisibilidade e indivisibilidade. Envolve a ação penal pública incondicionada e condicionada à representação ou requisição do Ministro da Justiça, bem como a ação penal privada exclusiva, subsidiária da pública e personalíssima, com exame de decadência, renúncia, perdão do ofendido, perempção e queixa-crime. O tema dialoga diretamente com o Código de Processo Penal, especialmente os arts. 24 a 62, a Constituição Federal de 1988 e a jurisprudência do Ministério Público, sem adentrar tipos penais ou responsabilidade por concurso de pessoas ou crimes específicos. Também abrange legitimidade ativa e passiva, exercício da pretensão punitiva, substituição processual e extinção da punibilidade em sua relação com o impulso acusatório._
+  - `5065` Ação Penal Privada
+  - `5064` Ação Penal Pública
+- `5066` Concurso de Crimes
+  - `5068` Concurso Formal
+  - `5067` Concurso Material
+  - `5069` Crime Continuado
+  - `5070` Pena de Multa no Concurso de Crimes
+- `5071` Concurso de Pessoas
+  - `5072` Autores e Partícipes
+  - `5073` Autoria Mediata, Colateral e Coautoria
+  - `5076` Comunicabilidade de Circunstâncias, Condições e Elementares
+  - `5075` Cooperação Dolosamente Distinta
+  - `5074` Participação
+- `6717` Crimes contra o meio ambiente
+- `5077` Das Lesões Corporais
+- `5079` Dos Crimes Contra a Administração Judicial
+  - `5080` Denunciação Caluniosa, Comunicação Falsa de Crime ou Contravenção e Autoacusação Falsa
+  - `5082` Exercício Arbitrário das Próprias Razões
+  - `5085` Exercício Arbitrário ou Abuso de Poder
+  - `5081` Falso Testemunha ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito
+  - `5084` Favorecimento Pessoal e Real
+  - `5083` Fraude Processual
+  - `5086` Outros crimes contra a Administração Judicial
+- `5087` Dos Crimes Contra a Administração Pública
+  - `5097` Advocacia Administrativa
+  - `5091` Concussão e Excesso de Exação
+  - `5096` Condescendência Criminosa
+  - `5094` Contrabando ou Descaminho
+  - `5093` Corrupção Ativa
+  - `5092` Corrupção Passiva
+  - `5090` Emprego Irregular de Verbas ou Rendas Públicas
+  - `5088` Noções gerais dos crimes praticados contra a administração pública
+  - `5089` Peculato e Peculato Mediante Erro de Outrem
+  - `5095` Prevaricação
+  - `5100` Resistência, Desobediência e Desacato
+  - `5101` Tráfico de Influência
+  - `5099` Usurpação de Função Pública
+  - `5098` Violência Arbitrária
+- `6718` Dos Crimes Contra a Administração Pública (Parte 1)
+- `6719` Dos Crimes contra a Administração Pública (Parte 2)
+- `5102` Dos Crimes Contra a Dignidade Sexual
+  - `5106` Assédio Sexual
+  - `5108` Corrupção de Menores
+  - `5110` Disposições Gerais dos Crimes Contra a Dignidade Sexual
+  - `5103` Estupro e Estupro de Vulnerável
+  - `5105` Importunação Sexual
+  - `5109` Outros Crimes Contra a Dignidade Sexual
+  - `5107` Registro Não Autorizado da Intimidade Sexual
+  - `5104` Violação Sexual Mediante Fraude
+- `5111` Dos Crimes contra a Família
+  - `5114` Dos Crimes Contra a Assistência Familiar
+  - `5112` Dos Crimes Contra o Casamento
+  - `5113` Dos Crimes Contra o Estado de Filiação
+  - `5115` Dos Crimes Contra o Pátrio Poder, a Tutela e a Curatela
+- `5116` Dos Crimes Contra a Fé Pública e de Falsidade Documental
+  - `5118` Da Falsidade Documental
+  - `5119` De outras falsidades
+  - `5117` Dos Crimes contra a Fé Pública
+- `5120` Dos Crimes Contra a Honra
+  - `5122` Calúnia
+  - `5123` Difamação
+  - `5121` Disposições Gerais e Comuns aos Crimes Contra a Honra
+  - `5124` Injúria
+- `5125` Dos Crimes Contra a Incolumidade Pública
+  - `5127` Dos Crimes Contra a Segurança dos Meios de Comunicação e Transporte e Outros Serviços Públicos
+  - `5126` Dos Crimes de Perigo Comum
+- `5128` Dos Crimes Contra a Liberdade Pessoal
+  - `5130` Ameaça e Perseguição
+  - `5133` Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos
+  - `5129` Intimidação Sistemática (Bullying)
+  - `5132` Sequestro, Cárcere Privado, Redução à Condição Análoga à de Escravo e Tráfico de Pessoas
+  - `5131` Violência Psicológica contra a Mulher
+- `5134` Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso
+  - `5135` Dos Crimes Contra a Organização do Trabalho
+  - `5137` Dos Crimes Contra o Sentimento Religioso e Respeito aos Mortos
+  - `5136` Dos Crimescontra a Propriedade Imaterial
+- `5138` Dos Crimes Contra a Periclitação da Vida e da Saúde
+  - `5141` Abandono de Incapaz e Exposição ou Abandono de Recém-Nascido
+  - `5143` Maus-Tratos
+  - `5142` Omissão de Socorro
+  - `5139` Perigo de Contágio Venéreo e de Moléstia Grave
+  - `5140` Perigo para a Vida ou a Saúde de Outrem
+- `5144` Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública
+  - `5146` Crimes Contra à Paz Pública
+  - `5145` Dos Crimes Contra a Saúde Pública
+- `5149` Dos Crimes Contra a Vida
+  - `5154` Aborto
+  - `5151` Feminicídio
+  - `5150` Homicídio
+  - `5152` Induzimento, Instigação ou Auxílio ao Suicídio
+  - `5153` Infanticídio
+- `5147` Dos Crimes contra as Finanças Públicas
+- `5148` Dos Crimes contra as Instituições Democráticas
+- `5155` Dos Crimes contra o Estado Democrático de Direito
+- `5156` Dos Crimes contra o Funcionamento dos Serviços Essenciais
+- `5157` Dos Crimes Contra o Patrimônio
+  - `5158` 12 Disposições Gerais dos Crimes Contra o Patrimônio
+  - `5167` Abuso de Incapazes
+  - `5165` Apropriação indébita
+  - `5164` Dano
+  - `5162` Esbulho Possessório
+  - `5166` Estelionato
+  - `5161` Extorsão
+  - `5168` Fraude à Execução
+  - `5159` Furto
+  - `5169` Receptação
+  - `5160` Roubo
+  - `5163` Usurpação
+- `6720` Dos Crimes Contra o Patrimônio (Parte 1)
+- `6721` Dos Crimes contra o Patrimônio (Parte 2)
+- `6722` Estatuto do Idoso - Crimes
+- `5170` Introdução ao Estudo do Direito Penal
+  - `5174` Classificações dos Crimes
+  - `5171` Conceito e Fontes do Direito Penal
+  - `5173` Interpretação da Norma Penal
+  - `5172` Princípios do Direito Penal
+- `5175` Iter Criminis
+  - `5177` Crime Consumado e Tentado
+  - `5179` Crime Impossível
+  - `5178` Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior
+  - `5176` Fases do Iter Criminis
+- `6723` Lavagem de Dinheiro
+- `6724` Lei Maria da Penha
+- `5180` Lei Penal no Tempo e no Espaço
+  - `5183` Conflito Aparente de Normas
+  - `5182` Lei penal no Espaço
+  - `5181` Lei penal no Tempo
+- `5184` Medida de Segurança
+- `6725` Organizações Criminosas
+- `5185` Prescrição — _No Direito Penal, o tema da prescrição trata da extinção da punibilidade pelo decurso do tempo, disciplinada principalmente nos arts. 109 a 117 do Código Penal e aplicada em conexão com a pretensão punitiva e a pretensão executória. Abrange o cálculo dos prazos prescricionais conforme a pena em abstrato ou em concreto, as causas de interrupção e suspensão, a distinção entre prescrição da pretensão punitiva, retroativa e intercorrente, além de regras como a redução pela metade do art. 115 do CP e os efeitos do art. 110. Também exige atenção à contagem em crimes permanentes, tentados e à repercussão de decisões judiciais. Não se confunde com matérias de ação penal, concurso de crimes ou de pessoas, nem com a tipificação de delitos específicos; seu foco é a perda do ius puniendi estatal pelo lapso temporal, em diálogo com a segurança jurídica e a finalidade da pena._
+  - `5186` Conceito, Regras Gerais e Fundamentos da Prescrição
+  - `5187` Contagem dos Prazos e Causas Suspensivas e Interruptivas da Prescrição
+  - `5190` Outras Prescrições
+  - `5189` Prescrição da Pretensão Executória
+  - `5188` Prescrição da Pretensão Punitiva
+- `5191` Punibilidade
+  - `5194` Abolitio Criminis
+  - `5193` Anistia, Graça e Indulto
+  - `5198` Decadência — _No Direito Penal, a decadência é causa extintiva da punibilidade consistente na perda do direito de ação penal privada ou de representação, pelo decurso do prazo legal sem o seu exercício. Nos termos do Código Penal, especialmente o art. 107, IV, e do Código de Processo Penal, ela incide, em regra, sobre crimes de ação penal privada e sobre a hipótese em que a representação da vítima é condição de procedibilidade, observando-se os prazos do art. 38 do CPP e, conforme o caso, a disciplina do art. 103 do CP. Trata-se de instituto ligado à segurança jurídica e à inércia do titular do direito de provocar a jurisdição, distinguindo-se da perempção, da renúncia ao direito de queixa, do perdão do ofendido e da retratação, pois aqui não há desistência voluntária, mas preclusão temporal do exercício da pretensão punitiva privada. Também deve ser analisada em consonância com a Lei 9.099/95 e com a contagem de prazos penais._
+  - `5192` Morte do agente
+  - `5197` Perdão Judicial
+  - `5195` Perempção
+  - `5196` Renúncia, Perdão do Ofendido e Retratação
+- `5199` Teoria da Pena
+  - `5209` Efeitos da Condenação Penais e Extrapenais
+  - `5208` Livramento Condicional
+  - `5206` Pena de Multa
+  - `5201` Penas Privativas de Liberdade
+  - `5205` Penas Restritivas de Direitos
+  - `5202` Primeira Fase da Dosimetria: Circunstâncias Judiciais
+  - `5210` Reabilitação Criminal
+  - `5200` Sanção Penal: Conceito, Finalidade e Modalidades
+  - `5203` Segunda Fase da Dosimetria: Agravantes e Atenuantes
+  - `5207` Suspensão Condicional da Pena
+  - `5204` Terceira fase da Dosimetria: Causas de Aumento e de Diminuição
+- `6726` Teoria da Pena (Parte 1)
+- `6727` Teoria da Pena (Parte 2)
+- `5211` Teoria do Crime: Culpabilidade
+  - `5217` Causas Supralegais de Exclusão da Culpabilidade
+  - `5215` Coação Moral Irresistível
+  - `5212` Conceito e Elementos da Culpabilidade
+  - `5214` Erro de Proibição
+  - `5213` Inimputabilidade
+  - `5216` Obediência Hierárquica
+- `5218` Teoria do Crime: Fato Típico
+  - `5219` Conceito, Sujeito e Objeto do Crime
+  - `5221` Conduta
+  - `5222` Crime Doloso e Culposo
+  - `5223` Crimes Omissivos e Comissivos
+  - `5224` Erro de Tipo
+  - `5220` Fato Típico
+  - `5226` Nexo Causal e Imputação Objetiva
+  - `5225` Resultado
+  - `5227` Tipicidade
+- `5228` Teoria do Crime: Ilicitude
+  - `5233` Causas Supralegais de Exclusão da Ilicitude
+  - `5229` Conceito e Elementos da Ilicitude
+  - `5230` Estado de Necessidade
+  - `5232` Estrito Cumprimento do Dever Legal
+  - `5231` Legítima Defesa
+- `6728` Tráfico de Drogas
+
+## `5465` Processo Penal
+
+- `5466` Ação Penal — _A Ação Penal, no Processo Penal brasileiro, disciplina a iniciativa jurisdicional para provocar a prestação jurisdicional penal, delimitando quem pode acusar, em que condições e sob quais espécies. Abrange a ação penal pública incondicionada e condicionada à representação ou à requisição do Ministro da Justiça, bem como a ação penal privada, inclusive privada subsidiária da pública, com atenção à legitimidade ativa, condição de procedibilidade, interesse de agir, disponibilidade, renúncia, perdão do ofendido e perempção. Estuda ainda a titularidade do Ministério Público à luz do art. 129, I, da CF, a atuação do querelante, o princípio da obrigatoriedade e seus temperamentos, e a divisão entre crimes de ação pública e privada prevista no Código de Processo Penal, especialmente nos arts. 24 a 60. O tema também envolve representação, decadência, aditamento da queixa, queixa-crime e resposta acusatória, sem adentrar em competência, nulidades, inquérito ou recursos._
+  - `5475` Ação Civil Ex Delicto
+  - `5472` Ação Penal de Iniciativa Privada
+  - `5471` Ação Penal Pública Condicionada
+  - `5470` Ação Penal Pública Incondicionada
+  - `5467` Características e Condições da Ação Penal
+  - `5468` Classificação da Ação Penal
+  - `5473` Denúncia
+  - `5469` Princípios da Ação Penal
+  - `5474` Queixa Crime
+- `5476` Ações Autônomas de Impugnação
+  - `5477` Habeas Corpus — _Habeas Corpus é a ação constitucional autônoma de impugnação destinada à tutela imediata da liberdade de locomoção, quando alguém sofre ou se encontra na iminência de sofrer violência ou coação ilegal por ilegalidade ou abuso de poder, nos termos do art. 5º, LXVIII, da Constituição Federal e dos arts. 647 a 667 do Código de Processo Penal. Seu estudo abrange o cabimento preventivo e repressivo, a liminar, a autoridade coatora, a concessão de ofício, a impetração por qualquer pessoa, a substituição da fiança, a nulidade de atos processuais, além das hipóteses de trancamento de inquérito ou ação penal por atipicidade, extinção da punibilidade ou falta de justa causa. Aplica-se sob a lógica da tutela de urgência penal e da proteção da liberdade ambulatorial, sem se confundir com revisão criminal ou mandado de segurança, que possuem objeto e pressupostos próprios._
+  - `5479` Mandado de Segurança — _Mandado de segurança, no âmbito das ações autônomas de impugnação em processo penal, é remédio constitucional destinado à tutela de direito líquido e certo violado ou ameaçado por ato ilegal ou abusivo de autoridade, quando não houver outro meio processual adequado. Seu estudo envolve a Lei 12.016/2009, o art. 5º, LXIX, da Constituição Federal, a noção de prova pré-constituída, a distinção entre ato judicial e ato administrativo, a competência originária dos tribunais, o cabimento contra decisões teratológicas e a vedação de dilação probatória. Em matéria penal, discute-se seu uso excepcional para trancar procedimento, sustar constrangimentos ilegais ou corrigir flagrante ilegalidade processual, sem confundir-se com habeas corpus ou revisão criminal. Também são relevantes os requisitos da impetração, o prazo decadencial de 120 dias, a liminar, a autoridade coatora, o litisconsórcio passivo necessário e a jurisprudência do STF e do STJ sobre seu manejo restrito._
+  - `5478` Revisão Criminal
+- `5480` Competência — _Competência no Processo Penal é o conjunto de regras que define qual órgão jurisdicional deve processar e julgar a infração penal, delimitando a jurisdição criminal segundo critérios como matéria, lugar, função, prerrogativa de foro e conexão/continência. Examina-se a competência absoluta e relativa, a prevenção, a distribuição, a competência por conexão e continência, o desmembramento e a modificação da competência, além dos conflitos de competência e sua solução. No CPP, destacam-se os arts. 69 a 91, bem como as hipóteses constitucionais de competência originária e recursal dos tribunais. Também são relevantes os critérios do lugar da infração, da consumação e da tentativa, e, nos crimes dolosos contra a vida, a competência do Tribunal do Júri prevista no art. 5º, XXXVIII, da Constituição Federal. O tema articula-se com os princípios do juiz natural, da perpetuatio jurisdictionis e da imparcialidade, sem tratar de ação penal, recursos ou nulidades._
+  - `5483` Comeptência Territorial
+  - `5485` Competência de Juízo
+  - `5482` Competência em Razão da Matéria
+  - `5484` Competência por Prerrogativa de Função
+  - `5481` Espécies e Fixação de Competência Criminal
+  - `5486` Prorrogação, Perpetuação e Modificação de Competência
+- `6732` Competência (Parte 1)
+- `6733` Competência (Parte 2)
+- `5487` Comunicação dos Atos Processuais — _A Comunicação dos Atos Processuais no Processo Penal abrange as formas pelas quais o juiz, o Ministério Público, a defesa e os auxiliares da Justiça são cientificados dos atos processuais, assegurando contraditório, ampla defesa e regularidade procedimental. Nesse recorte, estudam-se a citação, a intimação e a notificação, com suas espécies, formas de realização, requisitos de validade, destinatários e efeitos, à luz do Código de Processo Penal, especialmente dos arts. 351 a 372, e da aplicação subsidiária do CPC quando compatível. Incluem-se a citação por mandado, por carta precatória, por hora certa, por edital e, quando cabível, por meio eletrônico, bem como as intimações pessoais e pelo Diário da Justiça. O tema também envolve a contagem de prazos, a ciência da acusação e da defesa e as consequências da ausência ou irregularidade da comunicação, sem adentrar em nulidades, competência, recursos ou prisões._
+  - `5488` Citação e Contagem dos Prazos
+  - `5489` Intimação e Contagem dos Prazos
+- `5490` Das Questões e Processos Incidentes
+  - `5493` Exceção de Incompetência e de Ilegitimidade
+  - `5494` Exceção de Litispendência e de Coisa Julgada
+  - `5492` Exceção de Suspeição, de Impedimento ou de Incompatibilidade
+  - `5497` Incidente de Falsidade e de Insanidade Mental
+  - `5496` Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto
+  - `5491` Questões Prejudiciais e Preliminares
+  - `5495` Restituição de Coisas Apreendidas
+- `5498` Inquérito Policial
+  - `5502` Acordo de Não Persecução Penal
+  - `5499` Conceito, Finalidade e Caractéristas do Inquérito Policial
+  - `5501` Conclusão e Arquivamento do Inquérito Policial
+  - `5504` Inquérito Civil
+  - `5503` Juiz das Garantias
+  - `5500` Procedimento do Inquérito Policial
+- `6734` Lei de Execução Penal
+- `5505` Lei Processual no Tempo e no Espaço
+  - `5508` Interpretação da Lei processual Penal
+  - `5506` Lei Processual no Espaço
+  - `5507` Lei processual no Tempo
+- `5509` Nulidades
+  - `5510` Nulidade Absoluta e Relativa
+  - `5511` Nulidades em Espécie
+- `5512` Parte Geral dos Recursos — _A Parte Geral dos Recursos no processo penal disciplina a impugnação das decisões judiciais mediante reexame por órgão jurisdicional hierarquicamente competente, à luz do devido processo legal, da ampla defesa e do duplo grau de jurisdição. Abrange teoria geral da recorribilidade, juízo de admissibilidade e de mérito, tempestividade, legitimidade, interesse recursal, fungibilidade, efeitos devolutivo, suspensivo e regressivo, além da forma de interposição e processamento de apelação, recurso em sentido estrito, embargos, carta testemunhável, agravo em execução e embargos infringentes e de nulidade, conforme o Código de Processo Penal e a Lei de Execução Penal. Estuda ainda princípios como non reformatio in pejus, taxatividade, unirrecorribilidade e motivação das decisões, com referência à doutrina de Aury Lopes Jr. e Tourinho Filho, sem tratar de ação penal, nulidades, competência, prisões ou ações autônomas de impugnação._
+  - `5516` Classificação dos Recursos
+  - `5515` Efeito dos Recursos
+  - `5514` Pressupostos Objetivos e Subjetivos de Admissibilidade Recursal
+  - `5513` Princípios Recursais no Processo Penal
+- `5517` Prisões em Espécie
+  - `5523` Liberdade Provisória
+  - `5522` Medidas Cautelares Diversas da Prisão
+  - `5521` Prisão Domiciliar
+  - `5518` Prisão em Flagrante
+  - `5519` Prisão Preventiva
+  - `5520` Prisão Temporária
+- `5524` Procedimento do Tribunal do Júri
+  - `5527` Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia
+  - `5528` Organização do Júri e Sessão de Julgamento
+  - `5525` Princípios Constitucionais do Júri
+  - `5526` Procedimento Bifásico do Tribunal do Júri
+  - `5529` Sentença do Júri
+- `5530` Procedimento Ordinário — _O procedimento ordinário no Processo Penal disciplina o rito comum de maior amplitude para o processamento da ação penal, especialmente nos crimes cuja pena máxima seja superior a 4 anos, conforme os arts. 394 a 405 do Código de Processo Penal, com a redação dada pela Lei 11.719/2008. Abrange a denúncia ou queixa, o recebimento da inicial, a citação do acusado, a resposta à acusação, a possibilidade de absolvição sumária, a instrução criminal, o interrogatório como meio de الدفاع, a oitiva de testemunhas, o reconhecimento, a acareação, a juntada de documentos, as diligências complementares e, ao final, as alegações finais e a sentença. Também se relaciona aos princípios do contraditório, ampla defesa, oralidade, concentração dos atos e duração razoável do processo, sob a lógica do devido processo legal. Não trata de inquérito policial, prisões cautelares, nulidades, competência ou recursos, mas do encadeamento procedimental da persecução penal em juízo._
+  - `5531` 2 Oferecimento, Rejeição e Recebimento da Peça Acusatória
+  - `5534` Absolvição Sumária
+  - `5536` Alegações Orais
+  - `5535` Audiência de Instrução e Julgamento — _A Audiência de Instrução e Julgamento, no procedimento ordinário do processo penal, é o ato central de produção da prova oral, com disciplina nos arts. 400 a 411 do Código de Processo Penal, especialmente após a reforma da Lei 11.719/2008. Nela, observam-se a identidade física do juiz, a concentração dos atos, a oralidade e a publicidade, com oitiva da vítima, testemunhas de acusação e defesa, esclarecimentos de peritos, acareações e reconhecimentos, além do interrogatório do acusado como meio de defesa. O ato também abrange incidentes probatórios e requerimentos supervenientes relacionados à instrução, sempre sob o contraditório e a ampla defesa do art. 5º, LV, da Constituição Federal. Seu foco é a colheita e a organização da prova para o convencimento judicial, sem avançar sobre recebimento da denúncia, defesa preliminar, absolvição sumária, alegações finais ou sentença._
+  - `5532` Classificação dos Procedimentos
+  - `5533` Defesa Preliminar
+  - `5537` Sentença — _No procedimento ordinário do Processo Penal, a sentença é o ato jurisdicional que encerra a fase cognitiva em primeiro grau, após a instrução probatória e as alegações finais, com fundamento nos arts. 381 a 393 do Código de Processo Penal. Aborda-se a estrutura da decisão, especialmente o relatório, a fundamentação e o dispositivo, em observância ao art. 93, IX, da Constituição Federal e ao princípio do livre convencimento motivado, hoje compreendido à luz do dever de motivação. Também se examinam a absolvição e a condenação, a fixação da pena segundo os arts. 59 e 68 do Código Penal, a definição do regime inicial, a substituição por penas restritivas de direitos, a suspensão condicional da pena, a decretação ou manutenção de medidas cautelares e a expedição de mandado de prisão quando cabível. Envolve ainda nulidades, emendatio libelli, mutatio libelli, correção de erros materiais e efeitos processuais da sentença._
+- `5539` Procedimento Sumaríssimo
+  - `5540` Competência dos Juizados Especiais Criminais
+  - `5542` Suspensão Condicional do Processo
+  - `5541` Transação Penal
+- `5538` Procedimento Sumário
+- `6735` Provas em Espécie
+- `5543` Provas em Espécies
+  - `5552` Acareação
+  - `5558` Ação Controlada
+  - `5554` Busca e Apreensão
+  - `5544` Cadeia de Custódia
+  - `5556` Captação Ambiental
+  - `5557` Colaboração Premiada
+  - `5548` Confissão — _No Processo Penal, a confissão é o meio de prova pelo qual o imputado admite a autoria ou participação no fato típico, podendo ser judicial ou extrajudicial, simples, qualificada, retratada ou parcial, e deve ser valorada em conjunto com os demais elementos probatórios, não bastando isoladamente para condenação. À luz do CPP, especialmente dos arts. 197 a 200, e do art. 5º, LXIII, da CF, exige-se voluntariedade, observância ao direito ao silêncio e ausência de coação, tortura ou constrangimento ilegal, em consonância com o nemo tenetur se detegere. A confissão não se confunde com interrogatório judicial, nem com declaração do ofendido, prova testemunhal ou reconhecimento, pois seu núcleo é a admissão do fato pelo próprio acusado. Também se examinam a confissão espontânea como atenuante genérica do art. 65, III, “d”, do CP e a necessidade de corroboração judicial sob o sistema do livre convencimento motivado._
+  - `5549` Declaração do Ofendido
+  - `5545` Exame de Corpo de Delito
+  - `5559` Infiltração de Agentes
+  - `5555` Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos
+  - `5547` Interrogatório Judicial
+  - `5546` Perícia
+  - `5553` Prova Documental — _Prova documental, no processo penal, abrange a produção, juntada, admissibilidade, autenticidade, integridade e valoração de documentos públicos e particulares, inclusive escritos, reproduções fotográficas, eletrônicas, mensagens, certidões e outros suportes informativos, nos termos dos arts. 231 a 238 do CPP, em diálogo com a Lei 11.419/2006, a Lei 12.965/2014 e a Lei 13.964/2019. Seu estudo envolve juntada posterior, juntada em audiência, contraditório diferido, força probatória, impugnação por falsidade, reconhecimento de firma, perícia grafotécnica quando necessária, e distinção entre documento original, cópia autenticada e reprodução mecânica. Também alcança prova emprestada e documentos obtidos licitamente, sob o crivo do devido processo legal, da ampla defesa e da licitude da prova, sem confundir-se com perícia, cadeia de custódia, testemunho ou confissão. A doutrina de Aury Lopes Jr. e Mirabete é frequentemente utilizada para tratar da fiabilidade documental e do controle judicial do valor probatório._
+  - `5550` Prova Testemunhal — _A prova testemunhal, no Processo Penal, é o meio de prova consistente na inquirição de pessoas que percebem fatos relevantes para a apuração da materialidade e autoria, regulada pelos arts. 202 a 225 do Código de Processo Penal. Abrange temas como capacidade para depor, compromisso legal, contradita, contraditório, cross-examination, número de testemunhas, substituição, suspeição, contraditas e valor probatório do depoimento, sempre sob a livre apreciação motivada do juiz, conforme o art. 155 do CPP. A testemunha deve relatar fatos e circunstâncias que presenciou, sem confundir-se com confissão, interrogatório do acusado, declaração do ofendido, reconhecimento, acareação ou prova pericial. A doutrina processual destaca a busca da verdade possível, a oralidade, a imediação e a publicidade, com limites impostos pelo sigilo profissional, pela vedação ao depoimento indireto quando insuficiente e pela proteção de certas pessoas, como menores e parentes, nos termos legais._
+  - `5551` Reconhecimento de Pessoas e Coisas
+- `6736` Recursos (Parte 03) - Espécies
+- `5560` Recursos em Espécies — _No estudo de Recursos em Espécies no Processo Penal, examinam-se os meios impugnativos típicos previstos no Código de Processo Penal para provocar o reexame de decisões judiciais, como apelação, recurso em sentido estrito, embargos infringentes e de nulidade, carta testemunhável, correição parcial e agravos previstos em lei especial. O tema envolve cabimento, legitimidade, prazos, efeitos devolutivo e suspensivo, juízo de admissibilidade, fungibilidade recursal, preclusão e reformatio in pejus, bem como a técnica de interposição, processamento e julgamento pelos tribunais. A abordagem privilegia a disciplina legal do CPP e leis extravagantes, em diálogo com princípios como ampla defesa, duplo grau de jurisdição e taxatividade recursal, sem adentrar na teoria geral dos recursos, nas ações autônomas de impugnação ou em nulidades, prisões e demais incidentes processuais._
+  - `5566` Agravo em Execução
+  - `5562` Apelação — _Apelação, no Processo Penal, é o recurso cabível contra sentenças definitivas ou com força de definitivas proferidas pelo juiz singular, disciplinado nos arts. 593 a 603 do CPP, com a finalidade de provocar o reexame da matéria de fato e de direito pelo tribunal ad quem. Abrange temas como legitimidade recursal, cabimento nas hipóteses de absolvição, condenação, nulidades, decisões do Tribunal do Júri nas limitações legais, prazo, interposição, razões e contrarrazões, juízo de admissibilidade, efeito devolutivo e, quando previsto, efeito suspensivo. No âmbito penal, relaciona-se aos princípios do duplo grau de jurisdição, ampla defesa e contraditório, sem se confundir com RESE, embargos, agravos ou recursos extraordinários. Também é central a análise de preliminares, reforma, anulação, absolvição, redimensionamento da pena e correção de error in judicando ou error in procedendo, conforme a técnica recursal do CPP e a jurisprudência dos tribunais._
+  - `5567` Carta Testemunhavel
+  - `5568` Correição Parcial
+  - `5565` Embargos de Declaração — _Embargos de declaração, no processo penal, são o recurso cabível para sanar obscuridade, ambiguidade, contradição ou omissão da decisão judicial, inclusive acórdão, sentença e decisão interlocutória com conteúdo decisório, nos termos do art. 619 do CPP. Têm função integrativa e aclaratória, não se prestando, em regra, à rediscussão do mérito, embora possam excepcionalmente produzir efeitos modificativos quando o saneamento do vício alterar o resultado do julgado. São relevantes para fins de prequestionamento, especialmente na via dos recursos excepcionais, e sua disciplina dialoga com os princípios da fundamentação das decisões, do devido processo legal e da segurança jurídica. No processo penal, a oposição tempestiva dos embargos interrompe o prazo recursal, e sua análise exige atenção à omissão sobre teses defensivas, contradições internas da fundamentação e erro material, sem confundir-se com apelação, RESE ou outros meios impugnativos próprios._
+  - `5564` Embargos Infringentes
+  - `5563` Protesto por novo Júri
+  - `5561` Recurso em sentido estrito (RESE)
+  - `5571` Recurso Especial — _O Recurso Especial, no âmbito do Processo Penal, é o meio impugnativo dirigido ao Superior Tribunal de Justiça para uniformização da interpretação da lei federal, nos termos do art. 105, III, da Constituição Federal, quando o acórdão recorrido contrariar tratado ou lei federal, negar-lhes vigência ou der à lei federal interpretação divergente da de outro tribunal. Seu exame é estrito, sem reexame de fatos e provas, em consonância com a Súmula 7 do STJ, exigindo prequestionamento e demonstração de violação direta de norma infraconstitucional. Em matéria penal e processual penal, é frequente a discussão sobre nulidades, tipificação, dosimetria da pena e aplicação do Código de Processo Penal, sempre com atenção à divergência jurisprudencial e ao cotejo analítico. Diferencia-se do Recurso Extraordinário por não versar sobre matéria constitucional, e não se confunde com os recursos ordinários ou próprios dos demais órgãos judiciais._
+  - `5570` Recurso Extraordinário — _No Processo Penal, o Recurso Extraordinário é o meio de impugnação dirigido ao Supremo Tribunal Federal para discutir, em sede excepcional, matéria constitucional decidida em última ou única instância, nos termos do art. 102, III, da Constituição Federal e dos arts. 1.029 a 1.041 do CPC, aplicados subsidiariamente. Exige demonstração de repercussão geral, prequestionamento e violação direta à Constituição, não se prestando ao reexame de fatos e provas nem à mera rediscussão de direito infraconstitucional, o que o distingue do Recurso Especial e dos demais recursos ordinários do CPP. Em regra, enfrenta temas como devido processo legal, contraditório, ampla defesa, motivação das decisões judiciais, competência constitucional e nulidades absolutas, com destaque para a técnica de admissibilidade, juízo de retratação e filtros recursais próprios da jurisprudência do STF._
+  - `5569` Recursos no Âmbito dos Juizados Especiais
+- `5572` Sentença Penal
+  - `5573` Classificação dos Provimentos Judiciais
+  - `5577` Efeitos Decorrentes da Sentença Penal Condenatória
+  - `5579` Emendatio Libelli e Mutatio Libelli
+  - `5576` Fixação da Pena e do Regime Penitenciário
+  - `5578` Princípio da Correlação entre Acusação e Sentença
+  - `5574` Sentença Absolutória
+  - `5575` Sentença Condenatória
+- `6737` Sentença Penal (Parte 1)
+- `6738` Sentença Penal (Parte 2)
+- `5580` Sistemas e Princípios Processuais Penais
+  - `5582` Princípios do Processo Penal
+  - `5581` Sistemas Processuais Penais
+- `5583` Sujeitos do Processo
+- `5584` Teoria Geral das Prisões
+  - `5589` Audiência de Custódia
+  - `5585` Conceitos e Espécies de Prisão
+  - `5587` Direitos e Garantias sobre a Prisão
+  - `5586` Imunidades Prisionais e Prisões Especiais
+  - `5588` Relaxamento da Prisão
+- `5590` Teoria Geral das Provas
+  - `5591` Finalidade, Sujeitos e Ônus da Prova
+  - `5595` Princípios Relativos à Prova Penal
+  - `5593` Prova Emprestada
+  - `5594` Prova Ilegal e Prova Ilícita
+  - `5592` Sistemas de Avaliação da Prova

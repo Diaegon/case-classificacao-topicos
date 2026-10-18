@@ -1,0 +1,102 @@
+disciplina,assunto_origem,n_questoes,tema_sugerido,titulo_sugerido,similaridade,concordancia_busca,tema_id,motivo
+Penal,Concurso de Crimes,32,5066,Concurso de Crimes,100,0.28,,tema sugerido no top-10 da busca em só 28% das questões (lixeira?)
+Processo Penal,Ação Penal (Parte 01),19,5466,Ação Penal,100,0.53,5466,
+Processo Penal,Inquérito Policial,19,5498,Inquérito Policial,100,0.74,5498,
+Processo Penal,Ação Penal (Parte 02),17,5466,Ação Penal,100,0.35,5466,
+Processo Penal,Comunicação dos atos processuais,13,5487,Comunicação dos Atos Processuais,100,0.23,,tema sugerido no top-10 da busca em só 23% das questões (lixeira?)
+Direito Penal - Legislação Especial,Concurso de Crimes,11,5066,Concurso de Crimes,100,0.09,,lixeira conhecida do site de origem
+Criminologia,Teorias Legitimidoras da Pena,10,4384,Teorias Legitimadoras da Pena,97,0.70,4384,
+Direito Penal - Legislação Especial,Teoria da Pena (Parte 02),10,5199,Teoria da Pena,100,0.90,5199,
+Processo Penal,Ação Penal,10,5466,Ação Penal,100,0.60,5466,
+Processo Penal,Sistemas e Princípios Processuais Penais,10,5580,Sistemas e Princípios Processuais Penais,100,0.60,5580,
+Penal,Legislação Penal Especial,9,5182,Lei penal no Espaço,68,0.11,,similaridade 68 < 90
+Penal,Lesão Corporal,9,5077,Das Lesões Corporais,71,0.33,,similaridade 71 < 90
+Penal,Ação Penal,8,5063,Ação Penal,100,0.50,5063,
+Penal,Teoria da Pena (Parte 02),8,5199,Teoria da Pena,100,1.00,5199,
+Penal,Concurso de Pessoas,7,5071,Concurso de Pessoas,100,0.86,5071,
+Penal,Iter Criminis,7,5175,Iter Criminis,100,0.86,5175,
+Penal,Teoria do Crime (Ilicitude),7,5228,Teoria do Crime: Ilicitude,100,0.43,5228,
+Processo Penal,Procedimento do Júri,7,5524,Procedimento do Tribunal do Júri,100,0.86,5524,
+Processo Penal,Competência (Parte 02),6,5480,Competência,100,0.67,5480,
+Processo Penal,Lei Processual Penal no tempo e no espaço,6,5505,Lei Processual no Tempo e no Espaço,100,0.83,5505,
+Criminologia,Conceitos Gerais de Criminologia,5,4381,Conceito e objeto da Criminologia,80,1.00,,similaridade 80 < 90
+Criminologia,Criminologia no Estado Democrático de Direito,4,4368,Criminologia no Estado Democrático de Direito,100,1.00,4368,
+Criminologia,Teorias Sociológicas Explicativas da Criminalidade,4,4385,Teorias Sociológicas Explicativas da Criminalidade,100,1.00,4385,
+Penal,Punibilidade,4,5191,Punibilidade,100,0.75,5191,
+Processo Penal,Procedimento Ordinário e Sumário (Parte 02),4,5530,Procedimento Ordinário,100,0.25,5530,
+Criminologia,Etapas Evolutivas e Escolas Criminológicas,3,4371,Etapas Evolutivas e Escolas Criminológicas,100,1.00,4371,
+Penal,Crimes contra a administração pública,3,5087,Dos Crimes Contra a Administração Pública,100,1.00,5087,
+Penal,Culpabilidade,3,5211,Teoria do Crime: Culpabilidade,100,1.00,5211,
+Penal,Teoria do Crime (Fato Típico) Parte 02,3,5218,Teoria do Crime: Fato Típico,100,1.00,5218,
+Processo Penal,"Das Citações e Intimações, Citação no Processo Penal",3,5513,Princípios Recursais no Processo Penal,54,0.00,,similaridade 54 < 90
+Criminologia,Teorias Sociológicas Explicativas da Criminalidade (Parte 02),2,4385,Teorias Sociológicas Explicativas da Criminalidade,100,1.00,4385,
+Direito Penal - Legislação Especial,Ação Penal,2,5063,Ação Penal,100,0.00,5063,
+Direito Penal - Legislação Especial,Medida de Segurança,2,5184,Medida de Segurança,100,0.50,5184,
+Direito Penal - Legislação Especial,Prescrição,2,5185,Prescrição,100,0.50,5185,
+Penal,Causas de extinção da punibilidade,2,5191,Punibilidade,100,1.00,5191,
+Penal,Crimes contra o patrimônio,2,5157,Dos Crimes Contra o Patrimônio,100,1.00,5157,
+Penal,Teoria do Crime Fato Típico Parte 03,2,5218,Teoria do Crime: Fato Típico,100,0.50,5218,
+Penal,"Tipicidade, Erro do tipo essencial",2,5227,Tipicidade,100,0.50,5227,
+Processo Penal,"Ação penal de iniciativa privada: definição, princípios e espécies, Ação Penal",2,5466,Ação Penal,100,1.00,5466,
+,Impostos Estaduais,1,5593,Prova Emprestada,53,0.00,,similaridade 53 < 90
+,Medidas Socioeducativas,1,5184,Medida de Segurança,57,1.00,,similaridade 57 < 90
+,Sistema de responsabilização por ilícitos ambientais,1,5580,Sistemas e Princípios Processuais Penais,59,0.00,,similaridade 59 < 90
+Criminologia,Política Criminal,1,4374,Política Criminal,100,1.00,4374,
+Criminologia,Vitimologia,1,4389,Vitimologia,100,1.00,4389,
+Direito Penal - Legislação Especial,Teoria do Crime (Ilicitude),1,5228,Teoria do Crime: Ilicitude,100,0.00,5228,
+Penal,"Causas de extinção da punibilidade, Crimes contra o patrimônio, Desistência voluntária e arrependimento eficaz",1,5157,Dos Crimes Contra o Patrimônio,100,1.00,5157,
+Penal,Classificação dos crimes,1,5174,Classificações dos Crimes,94,1.00,5174,
+Penal,"Classificação dos crimes, Teoria Geral do Delito",1,5174,Classificações dos Crimes,94,0.00,5174,
+Penal,"Conceitos e caracteres, Noções Fundamentais",1,5585,Conceitos e Espécies de Prisão,42,0.00,,similaridade 42 < 90
+Penal,Concurso de crimes,1,5066,Concurso de Crimes,100,1.00,5066,
+Penal,Concussão e Excesso de Exação,1,5091,Concussão e Excesso de Exação,100,1.00,5091,
+Penal,"Concussão e Excesso de Exação , Crimes contra a administração pública",1,5091,Concussão e Excesso de Exação,100,1.00,5091,
+Penal,Corrupção ativa,1,5093,Corrupção Ativa,100,1.00,5093,
+Penal,"Corrupção ativa, Corrupção passiva, Peculato",1,5093,Corrupção Ativa,100,1.00,5093,
+Penal,"Corrupção passiva, Concussão e Excesso de Exação , Crimes contra a administração pública",1,5091,Concussão e Excesso de Exação,100,1.00,5091,
+Penal,Crime continuado,1,5069,Crime Continuado,100,1.00,5069,
+Penal,"Crimes contra a administração pública, Concussão e Excesso de Exação",1,5091,Concussão e Excesso de Exação,100,1.00,5091,
+Penal,"Crimes contra a administração pública, Denunciação caluniosa",1,5087,Dos Crimes Contra a Administração Pública,100,1.00,5087,
+Penal,"Crimes contra a administração pública, Favorecimento pessoal",1,5087,Dos Crimes Contra a Administração Pública,100,1.00,5087,
+Penal,Crimes contra a fé pública,1,5117,Dos Crimes contra a Fé Pública,100,1.00,5117,
+Penal,Crimes contra a inviolabilidade de segredos,1,5133,"Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos",96,1.00,5133,
+Penal,Crimes contra a paz pública,1,5146,Crimes Contra a Paz Pública,100,1.00,5146,
+Penal,"Crimes contra o patrimônio, Furto",1,5159,Furto,100,1.00,5159,
+Penal,"Diferenças entre reclusão e detenção, Sanções penais, Penas privativas de liberdade",1,5201,Penas Privativas de Liberdade,100,1.00,5201,
+Penal,Espécies de Medida de Segurança,1,5184,Medida de Segurança,100,1.00,5184,
+Penal,Favorecimento de prostituição ou outra forma de exploração sexual de vulnerável,1,5103,Estupro e Estupro de Vulnerável,49,1.00,,similaridade 49 < 90
+Penal,Fixação do regime inicial da pena privativa de liberdade,1,5576,Fixação da Pena e do Regime Penitenciário,64,1.00,,similaridade 64 < 90
+Penal,Introdução ao Estudo de Direito Penal,1,5170,Introdução ao Estudo do Direito Penal,97,1.00,5170,
+Penal,"Legislação Penal Especial, Lei de Armas (Estatuto do Desarmamento) – Lei nº 10.826 de 2003 e Decretos Regulamentares",1,4697,Estatuto do Desarmamento,44,1.00,,similaridade 44 < 90
+Penal,"Legislação Penal Especial, Lei de Tóxicos – Lei nº 11.343 de 2006",1,5182,Lei penal no Espaço,68,0.00,,similaridade 68 < 90
+Penal,Medida de Segurança,1,5184,Medida de Segurança,100,0.00,5184,
+Penal,"Outras falsidades, Crimes contra a fé pública",1,5117,Dos Crimes contra a Fé Pública,100,0.00,5117,
+Penal,"Participação, Autoria e coautoria, Concurso de Pessoas",1,5071,Concurso de Pessoas,100,1.00,5071,
+Penal,"Penas privativas de liberdade, Regimes penitenciários",1,5201,Penas Privativas de Liberdade,100,1.00,5201,
+Penal,Prescrição,1,5185,Prescrição,100,1.00,5185,
+Penal,Primeira fase da dosimetria,1,5202,Primeira Fase da Dosimetria: Circunstâncias Judiciais,100,1.00,5202,
+Penal,Roubo,1,5160,Roubo,100,1.00,5160,
+Penal,"Roubo, Crimes contra o patrimônio",1,5160,Roubo,100,1.00,5160,
+Penal,Teoria Geral do Delito,1,4380,Teoria Geral da Criminologia,68,0.00,,similaridade 68 < 90
+Penal,"Teoria Geral do Delito, Tipicidade",1,5227,Tipicidade,100,1.00,5227,
+Penal,Teoria da Pena (Parte 01),1,5199,Teoria da Pena,100,1.00,5199,
+Penal,Tipicidade,1,5227,Tipicidade,100,0.00,5227,
+Penal,"Tipicidade, Crimes contra a vida",1,5227,Tipicidade,100,0.00,5227,
+Penal,Tipo Penal Culposo,1,5181,Lei penal no Tempo,67,0.00,,similaridade 67 < 90
+Penal,"Tipo Penal Doloso, Tipicidade",1,5227,Tipicidade,100,1.00,5227,
+Processo Penal,Competência (Parte 01),1,5480,Competência,100,1.00,5480,
+Processo Penal,"Das Provas, Das Citações e Intimações, Confissão no Processo Penal",1,5590,Teoria Geral das Provas,100,0.00,5590,
+Processo Penal,"Das Provas, Inadmissibilidade das provas obtidas por meios ilícitos, Busca e apreensão",1,5554,Busca e Apreensão,100,1.00,5554,
+Processo Penal,Das Questões e Processos Incidentes,1,5490,Das Questões e Processos Incidentes,100,1.00,5490,
+Processo Penal,"Das Questões e Processos Incidentes, Suspeição e impedimento",1,5490,Das Questões e Processos Incidentes,100,1.00,5490,
+Processo Penal,"Do juiz, do ministério público, do acusado e defensor, dos assistentes e auxiliares da justiça",1,5503,Juiz das Garantias,48,1.00,,similaridade 48 < 90
+Processo Penal,"Inquérito Policial, Encerramento do Inquérito Policial",1,5498,Inquérito Policial,100,1.00,5498,
+Processo Penal,Nulidades no Processo Penal,1,5509,Nulidades,100,1.00,5509,
+Processo Penal,"Princípios fundamentais do direito processual penal, Do juiz, do ministério público, do acusado e defensor, dos assistentes e auxiliares da justiça",1,5172,Princípios do Direito Penal,69,0.00,,similaridade 69 < 90
+Processo Penal,Procedimento Ordinário,1,5530,Procedimento Ordinário,100,1.00,5530,
+Processo Penal,"Procedimento Penal, Procedimento comum sumaríssimo - Lei nº 9.099 de 1995 - Lei dos Juizados Especiais Criminais - JECRIM",1,5539,Procedimento Sumaríssimo,100,1.00,5539,
+Processo Penal,"Procedimento especial da Lei nº 11.343 de 2006, Procedimento Penal",1,5530,Procedimento Ordinário,75,0.00,,similaridade 75 < 90
+Processo Penal,Recursos Criminais,1,4379,Cifras Criminais,53,0.00,,similaridade 53 < 90
+Processo Penal,"Recursos Criminais, Apelação no Processo Penal",1,5562,Apelação,100,1.00,5562,
+Processo Penal,Rito Sumaríssimo,1,5539,Procedimento Sumaríssimo,80,1.00,,similaridade 80 < 90
+Processo Penal,"Sistemas de Investigação, Investigação Preliminar: Juiz das Garantias",1,5503,Juiz das Garantias,100,1.00,5503,

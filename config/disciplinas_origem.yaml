@@ -1,0 +1,21 @@
+# disciplina_origem das questões (como veio do site) → disciplina da árvore.
+# Curadoria desta base. A disciplina de origem é só um sinal (pode estar errada): "fora do recorte"
+# vira uma flag, NÃO um "fora" automático. Ex.: Q0277 vem como "Direito Civil - Legislação Especial"
+# e trata de crimes contra o idoso, que tem tema na árvore (4696).
+# Uma disciplina que não estiver em nenhuma das listas faz o preparo falhar (base nova = revisar).
+# Revisado por: (pendente).
+
+recorte:
+  "Penal": Penal
+  "Direito Penal": Penal
+  "Processo Penal": Processo Penal
+  "Direito Processual Penal": Processo Penal
+  "Direito Penal - Legislação Especial": Direito Penal - Legislação Especial
+  "Criminologia": Criminologia
+
+fora_recorte:
+  - Direito Constitucional
+  - Direito Civil - Legislação Especial
+  - Direito Tributário
+  - Direito Ambiental
+  - Disciplina Unificada

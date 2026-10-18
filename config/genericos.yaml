@@ -1,0 +1,37 @@
+# Temas genéricos/introdutórios: candidatos a "lixeira". Continuam publicáveis, mas a regra
+# de decisão exige evidência extra para publicar neles (antilixeira).
+# Revisado por: (pendente)
+
+# 1. Padrões de título (regex, sem diferenciar maiúsculas). Bate no titulo_norm.
+padroes:
+  - "\\bconceito"
+  - "\\bprinc[ií]pios\\b"
+  - "no[cç][oõ]es gerais"
+  - "disposi[cç][oõ]es gerais"
+  - "\\bintrodu[cç][aã]o"
+  - "teoria geral"
+  - "caracter[ií]sticas"
+  - "\\bclassifica[cç][aãõo]"
+
+# 2. Lixeiras conhecidas pelo diagnóstico (títulos amplos que atraíram questões de outros temas),
+#    marcadas mesmo se o título não bater nos padrões.
+lixeiras_conhecidas:
+  5171: "Conceito e Fontes do Direito Penal"
+  5581: "Sistemas Processuais Penais"
+  5181: "Lei penal no Tempo"
+  5467: "Características e Condições da Ação Penal"
+  5585: "Conceitos e Espécies de Prisão"
+  5499: "Conceito, Finalidade e Características do IP"
+
+# 3. Exceções: títulos que batem num padrão mas nomeiam um assunto específico, cobrado
+#    como tema próprio em prova. Aprovadas pelo usuário em 2026-10-17.
+excecoes:
+  4366: "Classificação das Vítimas: tipologias de vítimas (Mendelsohn etc.), assunto específico"
+  4367: "Classificação dos Criminosos: tipologias de Lombroso/Ferri, assunto específico"
+  5174: "Classificações dos Crimes: próprio/comum, formal/material etc., assunto específico"
+  5468: "Classificação da Ação Penal: espécies de ação penal, assunto específico"
+  5516: "Classificação dos Recursos: voluntário/de ofício, ordinário/extraordinário, assunto específico"
+  5532: "Classificação dos Procedimentos: comum ordinário/sumário/sumaríssimo e especiais, assunto específico"
+  5573: "Classificação dos Provimentos Judiciais: despachos, decisões interlocutórias e sentenças, assunto específico"
+  5525: "Princípios Constitucionais do Júri: art. 5º, XXXVIII, CF, assunto específico"
+  5513: "Princípios Recursais: voluntariedade, unirrecorribilidade, reformatio in pejus, assunto específico"

@@ -1,0 +1,72 @@
+{
+  "etapa0_teste_modelos": {
+    "chamadas_api": 0,
+    "chamadas_cache": 3,
+    "tokens_input": 0,
+    "tokens_cached": 0,
+    "tokens_output": 0,
+    "custo_usd": 0.0,
+    "custo_total_usd": 0.0001,
+    "tempo_s": 0.0,
+    "tempo_api_s": 0
+  },
+  "total": {
+    "custo_total_usd": 4.0854,
+    "tempo_api_s": 395.5
+  },
+  "etapa1b_descricoes": {
+    "chamadas_api": 0,
+    "chamadas_cache": 351,
+    "tokens_input": 0,
+    "tokens_cached": 0,
+    "tokens_output": 0,
+    "custo_usd": 0.0,
+    "custo_total_usd": 0.993,
+    "tempo_s": 0.1,
+    "tempo_api_s": 145.8
+  },
+  "etapa2_sinais": {
+    "chamadas_api": 0,
+    "chamadas_cache": 710,
+    "tokens_input": 0,
+    "tokens_cached": 0,
+    "tokens_output": 0,
+    "custo_usd": 0.0,
+    "custo_total_usd": 0.0034,
+    "tempo_s": 0.3,
+    "tempo_api_s": 7.4
+  },
+  "etapa3_juiz_a": {
+    "chamadas_api": 11,
+    "chamadas_cache": 348,
+    "tokens_input": 235565,
+    "tokens_cached": 229760,
+    "tokens_output": 874,
+    "custo_usd": 0.0255,
+    "custo_total_usd": 1.8557,
+    "tempo_s": 4.6,
+    "tempo_api_s": 4.6
+  },
+  "etapa3_juiz_b": {
+    "chamadas_api": 11,
+    "chamadas_cache": 348,
+    "tokens_input": 235565,
+    "tokens_cached": 209792,
+    "tokens_output": 5010,
+    "custo_usd": 0.0072,
+    "custo_total_usd": 0.2352,
+    "tempo_s": 17.5,
+    "tempo_api_s": 17.5
+  },
+  "etapa3_juiz_baseline": {
+    "chamadas_api": 0,
+    "chamadas_cache": 359,
+    "tokens_input": 0,
+    "tokens_cached": 0,
+    "tokens_output": 0,
+    "custo_usd": 0.0,
+    "custo_total_usd": 0.998,
+    "tempo_s": 0.3,
+    "tempo_api_s": 220.2
+  }
+}
